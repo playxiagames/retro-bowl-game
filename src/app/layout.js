@@ -255,7 +255,7 @@ export default function RootLayout({ children }) {
             })
           }}
         />
-        <script defer data-domain="geometry-dash-lite.org" src="https://click.pageview.click/js/script.js"></script>
+        <script defer data-domain="retro-bowl-game.org" src="https://click.pageview.click/js/script.js"></script>
       </head>
       <body>
         <ThemeProvider>

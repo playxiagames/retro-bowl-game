@@ -36,7 +36,7 @@ export default function TermsPage() {
             <div className="prose prose-sm max-w-none text-left">
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
                 Welcome to Geometry Dash Lite ("our service", "website").
-                This service is provided by <strong>geometry-dash-lite.org</strong>.
+                This service is provided by <strong>retro-bowl-game.org</strong>.
               </p>
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
                 By accessing or using our service, you agree to be bound by these terms of service.
@@ -115,7 +115,7 @@ export default function TermsPage() {
               If you have any questions about our terms of service, please feel free to contact us:
             </p>
             <a
-              href="mailto:support@geometry-dash-lite.org?subject=Terms of Service Inquiry"
+              href="mailto:support@retro-bowl-game.org?subject=Terms of Service Inquiry"
               className="bg-white text-green-600 px-4 py-2 rounded-lg font-medium text-sm hover:bg-green-50 transition-colors"
             >
               Send Email

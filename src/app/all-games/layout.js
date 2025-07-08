@@ -7,7 +7,7 @@ export const metadata = {
     title: 'Search All Games - Find Your Perfect Game | Geometry Dash Lite',
     description: 'Search and discover your perfect game from our complete collection! Use powerful filters to find games by name, category, rating.',
     type: 'website',
-    url: 'https://geometry-dash-lite.org/all-games/',
+    url: 'https://retro-bowl-game.org/all-games/',
     siteName: 'Geometry Dash Lite',
   },
   twitter: {

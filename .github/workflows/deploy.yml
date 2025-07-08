@@ -1,4 +1,4 @@
-name: Deploy Geometry Dash Lite Site to GitHub Pages
+name: Deploy Retro Bowl Game Site to GitHub Pages
 
 on:
   push:
@@ -80,4 +80,4 @@ jobs:
         run: |
           echo "🚀 Deployment completed!"
           echo "🌐 Site URL: ${{ steps.deployment.outputs.page_url }}"
-          echo "📄 Custom domain: geometry-dash-lite.org" 
+          echo "📄 Custom domain: retro-bowl-game.org" 

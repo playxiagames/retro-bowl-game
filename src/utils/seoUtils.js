@@ -1,5 +1,5 @@
 // 简化的SEO工具函数
-const BASE_URL = 'https://geometry-dash-lite.org';
+const BASE_URL = 'https://retro-bowl-game.org';
 
 /**
  * 生成 canonical URL
@@ -139,8 +139,8 @@ export const generateGameStructuredData = (game) => {
       '@type': 'AggregateRating',
       ratingValue: game.rating || 4.5,
       bestRating: 5,
-      ratingCount: game.ratingCount || 3872,
-      reviewCount: game.reviewCount || 245,
+      ratingCount: game.ratingCount || 814,
+      reviewCount: game.reviewCount || 105,
     },
     offers: {
       '@type': 'Offer',

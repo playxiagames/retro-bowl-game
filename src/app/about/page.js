@@ -146,7 +146,7 @@ export default function AboutPage() {
                 Contact Us
               </a>
               <a
-                href="mailto:support@geometry-dash-lite.org"
+                href="mailto:support@retro-bowl-game.org"
                 className="bg-blue-600 text-white px-4 py-2 rounded-lg font-medium text-sm hover:bg-blue-700 transition-colors text-center border border-white border-opacity-30"
               >
                 Send Email

@@ -13,7 +13,7 @@ Allow: /favicon.ico
 Allow: /manifest.json
 
 # Sitemap
-Sitemap: https://geometry-dash-lite.org/sitemap.xml
+Sitemap: https://retro-bowl-game.org/sitemap.xml
 
 # Crawl delay (optional)
 Crawl-delay: 1 

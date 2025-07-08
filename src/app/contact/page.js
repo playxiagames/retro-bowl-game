@@ -40,10 +40,10 @@ export default function ContactPage() {
                     <h3 className="text-base font-semibold text-gray-900 dark:text-white mb-1">Support Email</h3>
                     <p className="text-sm text-gray-600 dark:text-gray-300 mb-2">We'll reply to your email within 24 hours</p>
                     <a 
-                      href="mailto:support@geometry-dash-lite.org"
+                      href="mailto:support@retro-bowl-game.org"
                       className="text-blue-600 hover:text-blue-800 font-medium text-sm transition-colors"
                     >
-                      support@geometry-dash-lite.org
+                      support@retro-bowl-game.org
                     </a>
                   </div>
                 </div>
@@ -55,12 +55,12 @@ export default function ContactPage() {
                     <h3 className="text-base font-semibold text-gray-900 dark:text-white mb-1">Official Website</h3>
                     <p className="text-sm text-gray-600 dark:text-gray-300 mb-2">Visit our homepage for more information</p>
                     <a 
-                      href="https://geometry-dash-lite.org/"
+                      href="https://retro-bowl-game.org/"
                       className="text-blue-600 hover:text-blue-800 font-medium text-sm transition-colors"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      geometry-dash-lite.org
+                      retro-bowl-game.org
                     </a>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ export default function ContactPage() {
                 <p>Please contact us via email for now:</p>
               </div>
               <a
-                href="mailto:support@geometry-dash-lite.org?subject=Website Inquiry&body=Hello,%0D%0A%0D%0AI would like to inquire about:%0D%0A%0D%0ADetailed description:%0D%0A%0D%0AThank you!"
+                href="mailto:support@retro-bowl-game.org?subject=Website Inquiry&body=Hello,%0D%0A%0D%0AI would like to inquire about:%0D%0A%0D%0ADetailed description:%0D%0A%0D%0AThank you!"
                 className="inline-flex items-center px-4 py-2 bg-blue-600 text-white font-medium text-sm rounded-lg hover:bg-blue-700 transition-colors"
               >
                 <span className="mr-2">📧</span>

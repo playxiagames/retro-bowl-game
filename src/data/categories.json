@@ -1,13 +1,13 @@
 {
   "categories": [
     {
-      "id": "geometry-dash",
-      "name": "Geometry Dash",
-      "slug": "geometry-dash",
-      "description": "Play Geometry Dash games online free - rhythm-based platformers with challenging obstacles and electronic music.",
-      "longDescription": "Geometry Dash is a series of rhythm-based action platformer games that challenge your reflexes and timing skills. Our collection features all the popular Geometry Dash versions including Geometry Dash Lite, the original Geometry Dash, Geometry Dash World, SubZero, Meltdown, Wave, Spam, and Breeze. Each game combines precise platforming with synchronized electronic music, creating an immersive gaming experience. Players navigate geometric characters through increasingly difficult levels filled with spikes, platforms, and moving obstacles. The games feature simple one-touch controls but require perfect timing to master. Whether you're a beginner looking to start with Geometry Dash Lite or an expert ready for the intense challenges of Geometry Dash Spam, our collection offers something for every skill level. These rhythm-based platformers have gained massive popularity for their addictive gameplay, memorable soundtracks, and the satisfaction of finally completing a difficult level after many attempts.",
+      "id": "sports-games",
+      "name": "Sports Games",
+      "slug": "sports-games",
+      "description": "Play free online sports games - football, baseball, basketball and more classic sports gaming experiences.",
+      "longDescription": "Sports Games collection features the best free online sports games including Retro Bowl, doodle baseball, basketball, soccer, and more. Our collection spans classic arcade-style sports games with nostalgic 8-bit graphics to modern interpretations of America's favorite pastimes. Whether you're managing a football team in Retro Bowl, hitting home runs in doodle baseball, or shooting hoops in basketball games, these titles capture the excitement and strategy of real sports. Perfect for sports fans and casual gamers alike, these games offer quick pick-up-and-play action combined with deeper strategic elements. From the simple joy of swinging for the fences to the complex team management mechanics, our sports games provide authentic sporting experiences that are both accessible to newcomers and engaging for experienced players.",
       "isTopLevel": true,
-      "gameCount": 30
+      "gameCount": 15
     },
     {
       "id": "google-games",

@@ -1,16 +1,16 @@
 {
   "site": {
-    "name": "Geometry Dash Lite - Play Geometry Dash Online Free",
-    "shortName": "Geometry Dash Lite", 
-    "description": "Play Geometry Dash Lite online for free! Ultimate rhythm-based platformer with challenging levels. No download required - play directly in your browser!",
-    "url": "https://geometry-dash-lite.org/",
-    "contactEmail": "contact@geometry-dash-lite.org",
+    "name": "Retro Bowl - Play Retro Bowl Online Free",
+    "shortName": "Retro Bowl Game", 
+    "description": "Play Retro Bowl online for free! Experience nostalgic American football with retro-style graphics and addictive gameplay. No download required!",
+    "url": "https://retro-bowl-game.org/",
+    "contactEmail": "support@retro-bowl-game.org",
     "logo": "/images/logo.png",
     "favicon": "/favicon.ico",
-    "ogImage": "https://images.geometry-dash-lite.org/og-geometry-dash-lite.webp"
+    "ogImage": "https://images.retro-bowl-game.org/og-retro-bowl.webp"
   },
   "analytics": {
-    "googleAnalyticsId": "G-F1S6GMESB8"
+    "googleAnalyticsId": "G-SJM1XFP9C9"
   },
   "features": {
     "enableFavorites": true,
@@ -18,25 +18,25 @@
     "enableThemeToggle": true
   },
   "homepage": {
-    "mainGame": "geometry-dash-lite",
+    "mainGame": "retro-bowl",
     "popularGames": [
-      "subway-surfers",
-      "dinosaur-game",
-      "solitaire",
-      "sprunki",
-      "minecraft",
-      "2048"
+      "doodle-baseball",
+      "retro-bowl-college",
+      "basketball",
+      "soccer",
+      "football",
+      "baseball"
     ],
-    "newGames": ["basketball", "minesweeper", "google-minesweeper"],
-    "hotGames": ["geometry-dash-lite", "dinosaur-game", "subway-surfers", "sprunki"]
+    "newGames": ["basketball", "soccer", "american-football"],
+    "hotGames": ["retro-bowl", "doodle-baseball", "retro-bowl-college", "basketball"]
   },
   "navigation": {
     "topItems": [
       {
         "type": "category",
-        "id": "geometry-dash",
-        "title": "Geometry Dash",
-        "url": "/category/geometry-dash/"
+        "id": "sports-games",
+        "title": "Sports Games",
+        "url": "/category/sports-games/"
       },
       {
         "type": "page",
@@ -46,15 +46,15 @@
       },
       {
         "type": "game",
-        "id": "dinosaur-game",
-        "title": "Dinosaur Game",
-        "url": "/games/dinosaur-game/"
+        "id": "doodle-baseball",
+        "title": "Doodle Baseball",
+        "url": "/games/doodle-baseball/"
       },
       {
         "type": "game",
-        "id": "subway-surfers",
-        "title": "Subway Surfers",
-        "url": "/games/subway-surfers/"
+        "id": "retro-bowl-college",
+        "title": "Retro Bowl College",
+        "url": "/games/retro-bowl-college/"
       }
     ]
   },
@@ -81,6 +81,6 @@
         "external": false
       }
     ],
-    "copyright": "© 2025 Geometry Dash Lite. All rights reserved."
+    "copyright": "© 2025 Retro Bowl Game. All rights reserved."
   }
 } 

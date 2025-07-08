@@ -323,11 +323,11 @@
     {
       "number": 9,
       "id": "retro-bowl",
-      "title": "Retro Bowl",
+      "title": "Retro Bowl Game",
       "slug": "retro-bowl",
       "description": "Manage your football team to championship glory in nostalgic 8-bit style. Draft players, handle contracts, and control exciting on-field action.",
       "longDescription": "Retro Bowl combines team management with on-field action in a nostalgic 8-bit style football game. Draft players, manage your roster, handle the press, and lead your team to championship glory. The game features simple controls for passing plays while offering deep team management mechanics. Balance your salary cap, keep players happy, and make strategic decisions both on and off the field.",
-      "category": "",
+      "category": "sports-games",
       "tags": [
         "retro bowl",
         "sports",

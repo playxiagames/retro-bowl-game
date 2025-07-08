@@ -1,7 +1,8 @@
 import { getAllGames, getAllCategories } from '../utils/gameData';
 
+const baseUrl = 'https://retro-bowl-game.org';
+
 export default function sitemap() {
-  const baseUrl = 'https://geometry-dash-lite.org';
   const currentDate = new Date();
   
   // 获取所有游戏和分类数据

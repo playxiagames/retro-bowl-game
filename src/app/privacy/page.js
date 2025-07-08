@@ -39,7 +39,7 @@ export default function PrivacyPage() {
                 This privacy policy explains how we collect, use, store, and protect your personal information.
               </p>
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-3">
-                By accessing and using our website <strong>geometry-dash-lite.org</strong>,
+                By accessing and using our website <strong>retro-bowl-game.org</strong>,
                 you agree to the practices described in this privacy policy.
               </p>
             </div>
@@ -204,13 +204,13 @@ export default function PrivacyPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-2">
               <a
-                href="mailto:support@geometry-dash-lite.org?subject=Privacy Policy Inquiry"
+                href="mailto:support@retro-bowl-game.org?subject=Privacy Policy Inquiry"
                 className="bg-white text-blue-600 px-4 py-2 rounded-lg font-medium text-sm hover:bg-blue-50 transition-colors text-center"
               >
                 Send Email
               </a>
               <span className="bg-white bg-opacity-20 px-4 py-2 rounded-lg text-sm">
-                support@geometry-dash-lite.org
+                support@retro-bowl-game.org
               </span>
             </div>
           </div>

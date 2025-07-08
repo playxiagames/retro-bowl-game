@@ -1,7 +1,7 @@
 {
-  "name": "Geometry Dash Lite - Play Geometry Dash Online Free",
-  "short_name": "Geometry Dash Lite",
-  "description": "Play Geometry Dash Lite online for free! Jump and fly your way through danger in this rhythm-based action platformer.",
+  "name": "Retro Bowl - Play Retro Bowl Online Free",
+  "short_name": "Retro Bowl",
+  "description": "Play Retro Bowl online for free! Experience nostalgic American football with retro-style graphics and addictive gameplay.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f3f4f6",
@@ -26,13 +26,13 @@
   "categories": ["games", "entertainment"],
   "screenshots": [
     {
-      "src": "https://images.geometry-dash-lite.org/og-geometry-dash-lite.webp",
+      "src": "https://images.retro-bowl-game.org/og-retro-bowl.webp",
       "sizes": "1280x720",
       "type": "image/jpeg",
       "form_factor": "wide"
     },
     {
-      "src": "https://images.geometry-dash-lite.org/og-geometry-dash-lite.webp",
+      "src": "https://images.retro-bowl-game.org/og-retro-bowl.webp",
       "sizes": "375x667",
       "type": "image/jpeg",
       "form_factor": "narrow"

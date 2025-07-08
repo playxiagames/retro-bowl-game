@@ -34,7 +34,7 @@ export async function generateMetadata({ params }) {
       title: 'Invalid Game URL',
       description: 'The requested game URL format is invalid.',
       alternates: {
-        canonical: 'https://geometry-dash-lite.org/404/',
+        canonical: 'https://retro-bowl-game.org/404/',
       },
     };
   }
