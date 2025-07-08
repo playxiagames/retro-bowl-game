@@ -1,0 +1,22 @@
+# 静态资源缓存配置（适用于支持 _headers 的平台如 Netlify）
+# GitHub Pages 不支持此文件，但为其他部署选项保留
+
+# 静态资源长期缓存
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# 图片资源缓存
+/images/*
+  Cache-Control: public, max-age=2592000
+
+# 字体文件缓存
+/*.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML 文件适度缓存
+/*.html
+  Cache-Control: public, max-age=3600
+
+# 预连接到关键域名
+/*
+  Link: <https://1games.io>; rel=preconnect; crossorigin, <https://scratch.mit.edu>; rel=preconnect; crossorigin 

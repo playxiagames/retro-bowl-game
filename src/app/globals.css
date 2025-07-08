@@ -1,0 +1,222 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 优化后的游戏网站CSS - 仅保留必要样式 */
+@layer base {
+  /* 简化的CSS变量定义 */
+  :root {
+    /* 背景颜色 */
+    --bg-primary: 249 250 251; /* gray-50 */
+    --surface-primary: 255 255 255; /* white */
+    
+    /* 文本颜色 */
+    --text-primary: 17 24 39; /* gray-900 */
+    --text-secondary: 75 85 99; /* gray-600 */
+    
+    /* 边框颜色 */
+    --border-primary: 209 213 219; /* gray-300 */
+    --border-focus: 59 130 246; /* blue-500 */
+  }
+
+  .dark {
+    /* 背景颜色 */
+    --bg-primary: 15 23 42; /* slate-900 */
+    --surface-primary: 30 41 59; /* slate-800 */
+    
+    /* 文本颜色 */
+    --text-primary: 248 250 252; /* slate-50 */
+    --text-secondary: 148 163 184; /* slate-400 */
+    
+    /* 边框颜色 */
+    --border-primary: 71 85 105; /* slate-600 */
+    --border-focus: 59 130 246; /* blue-500 */
+  }
+
+  /* 基础HTML和Body样式 */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    line-height: 1.6;
+    background-color: rgb(var(--bg-primary));
+    color: rgb(var(--text-primary));
+    transition: color 0.15s ease-out, background-color 0.15s ease-out;
+  }
+
+  /* 全局过渡效果 */
+  * {
+    transition-property: color, background-color, border-color;
+    transition-duration: 0.15s;
+    transition-timing-function: ease-out;
+  }
+
+  /* 提升焦点可见性 */
+  *:focus {
+    outline: 2px solid rgb(var(--border-focus));
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  /* 文本截断工具 */
+  .line-clamp-2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  
+  .line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* 游戏播放器样式 */
+  .game-player-container {
+    @apply w-full;
+  }
+
+  .game-iframe-container {
+    @apply relative w-full bg-black rounded-lg overflow-hidden;
+  }
+
+  .game-iframe-container iframe {
+    @apply w-full h-full border-0;
+    display: block;
+  }
+
+  /* 游戏卡片悬停效果 */
+  .game-card {
+    background-color: rgb(var(--surface-primary));
+    transition: all 0.3s ease;
+    @apply rounded-lg cursor-pointer transform hover:-translate-y-1;
+  }
+
+  .game-card:hover {
+    transform: translateY(-2px);
+    @apply shadow-lg;
+  }
+
+  /* 侧边栏游戏项目样式 */
+  .sidebar-game-item {
+    @apply flex items-center space-x-3 p-2 rounded-lg cursor-pointer transition-colors;
+  }
+  
+  .sidebar-game-item:hover {
+    @apply bg-gray-50 dark:bg-slate-700;
+  }
+
+  /* 顶部导航样式 */
+  .top-navigation {
+    @apply bg-white/95 dark:bg-slate-900/95 border-b border-gray-200 dark:border-slate-700 shadow-md sticky top-0 z-40;
+    backdrop-filter: blur(8px);
+  }
+
+  /* 响应式设计优化 */
+  @media (max-width: 768px) {
+    .game-iframe-container {
+      max-height: 60vh;
+      min-height: 300px;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .game-iframe-container {
+      max-height: 50vh;
+      min-height: 250px;
+    }
+  }
+}
+
+@layer utilities {
+  /* 骨架屏动画效果 */
+  .skeleton {
+    @apply bg-gray-200 dark:bg-slate-700 animate-pulse;
+  }
+
+  .skeleton-shimmer {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.2) 20%,
+      rgba(255, 255, 255, 0.5) 60%,
+      rgba(255, 255, 255, 0)
+    );
+    animation: shimmer 2s infinite;
+  }
+
+  .dark .skeleton-shimmer {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.1) 20%,
+      rgba(255, 255, 255, 0.2) 60%,
+      rgba(255, 255, 255, 0)
+    );
+  }
+
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+
+  /* 无障碍样式 */
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+}
+
+/* 系统暗色主题检测 */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light):not(.dark) {
+    --bg-primary: 15 23 42; /* slate-900 */
+    --surface-primary: 30 41 59; /* slate-800 */
+    --text-primary: 248 250 252; /* slate-50 */
+    --text-secondary: 148 163 184; /* slate-400 */
+    --border-primary: 71 85 105; /* slate-600 */
+  }
+}
+
+/* 减少动画偏好支持 */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* 高对比度模式支持 */
+@media (prefers-contrast: high) {
+  .game-card {
+    @apply border-2 border-gray-900;
+  }
+}
+
+/* 自定义选择颜色 */
+::selection {
+  background-color: rgb(59 130 246); /* blue-500 */
+  color: white;
+}
+
+::-moz-selection {
+  background-color: rgb(59 130 246); /* blue-500 */
+  color: white;
+} 

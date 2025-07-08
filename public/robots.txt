@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Disallow private directories
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /out/
+
+# Allow specific files
+Allow: /images/
+Allow: /favicon.ico
+Allow: /manifest.json
+
+# Sitemap
+Sitemap: https://geometry-dash-lite.org/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1 

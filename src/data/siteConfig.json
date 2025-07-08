@@ -1,0 +1,86 @@
+{
+  "site": {
+    "name": "Geometry Dash Lite - Play Geometry Dash Online Free",
+    "shortName": "Geometry Dash Lite", 
+    "description": "Play Geometry Dash Lite online for free! Ultimate rhythm-based platformer with challenging levels. No download required - play directly in your browser!",
+    "url": "https://geometry-dash-lite.org/",
+    "contactEmail": "contact@geometry-dash-lite.org",
+    "logo": "/images/logo.png",
+    "favicon": "/favicon.ico",
+    "ogImage": "https://images.geometry-dash-lite.org/og-geometry-dash-lite.webp"
+  },
+  "analytics": {
+    "googleAnalyticsId": "G-F1S6GMESB8"
+  },
+  "features": {
+    "enableFavorites": true,
+    "enableAnalytics": true,
+    "enableThemeToggle": true
+  },
+  "homepage": {
+    "mainGame": "geometry-dash-lite",
+    "popularGames": [
+      "subway-surfers",
+      "dinosaur-game",
+      "solitaire",
+      "sprunki",
+      "minecraft",
+      "2048"
+    ],
+    "newGames": ["basketball", "minesweeper", "google-minesweeper"],
+    "hotGames": ["geometry-dash-lite", "dinosaur-game", "subway-surfers", "sprunki"]
+  },
+  "navigation": {
+    "topItems": [
+      {
+        "type": "category",
+        "id": "geometry-dash",
+        "title": "Geometry Dash",
+        "url": "/category/geometry-dash/"
+      },
+      {
+        "type": "page",
+        "id": "all-games",
+        "title": "All Games",
+        "url": "/all-games/"
+      },
+      {
+        "type": "game",
+        "id": "dinosaur-game",
+        "title": "Dinosaur Game",
+        "url": "/games/dinosaur-game/"
+      },
+      {
+        "type": "game",
+        "id": "subway-surfers",
+        "title": "Subway Surfers",
+        "url": "/games/subway-surfers/"
+      }
+    ]
+  },
+  "footer": {
+    "links": [
+      {
+        "title": "About Us",
+        "url": "/about/",
+        "external": false
+      },
+      {
+        "title": "Contact Us",
+        "url": "/contact/",
+        "external": false
+      },
+      {
+        "title": "Privacy Policy",
+        "url": "/privacy/",
+        "external": false
+      },
+      {
+        "title": "Terms of Service",
+        "url": "/terms/",
+        "external": false
+      }
+    ],
+    "copyright": "© 2025 Geometry Dash Lite. All rights reserved."
+  }
+} 
