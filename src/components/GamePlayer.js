@@ -478,7 +478,8 @@ const GamePlayer = ({ game, className = '', showSkeleton = false, priority = fal
             allowFullScreen
             onLoad={handleIframeLoad}
             onError={handleIframeError}
-            sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-pointer-lock"
+            // sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-pointer-lock"
+            sandbox="allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-presentation allow-scripts allow-same-origin allow-downloads"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             style={{ 
               display: 'block',
