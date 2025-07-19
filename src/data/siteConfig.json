@@ -20,11 +20,15 @@
   "homepage": {
     "mainGame": "retro-bowl",
     "popularGames": [
+      "retro-bowl-2",
+      "retro-bowl-college",
+      "retro-bowl-3kh0",
+      "retro-bowl-25",
       "doodle-baseball",
-      "retro-bowl-college"
+      "dinosaur-game"
     ],
-    "newGames": ["basketball", "soccer", "american-football"],
-    "hotGames": ["retro-bowl", "doodle-baseball", "retro-bowl-college", "basketball"]
+    "newGames": ["tecmo-super-bowl-III-special-edition", "tecmo-super-bowl-II-special-edition", "american-football"],
+    "hotGames": ["retro-bowl", "doodle-baseball", "retro-bowl-college", "tecmo-super-bowl-II-special-edition"]
   },
   "navigation": {
     "topItems": [

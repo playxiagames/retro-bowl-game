@@ -38,6 +38,24 @@
     },
     {
       "number": 2,
+      "id": "retro-bowl-2",
+      "title": "Retro Bowl 2",
+      "slug": "retro-bowl-2",
+      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
+      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "category": "retro-bowl",
+      "tags": [],
+      "iframeUrl": "https://game316009.konggames.com/gamez/0031/6009/live/index.html",
+      "thumbnail": "https://images.geometry-dash-lite.org/retro-bowl-2.webp",
+      "screenshot": "https://images.geometry-dash-lite.org/retro-bowl-2.webp",
+      "playCount": 1180000,
+      "rating": 4.3,
+      "controls": [],
+      "tips": [],
+      "relatedGameIds": []
+    },
+    {
+      "number": 3,
       "id": "retro-bowl-unblocked",
       "title": "Retro Bowl Unblocked",
       "slug": "retro-bowl-unblocked",
@@ -55,7 +73,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 3,
+      "number": 4,
       "id": "retro-bowl-25",
       "title": "Retro Bowl 25",
       "slug": "retro-bowl-25",
@@ -73,7 +91,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 4,
+      "number": 5,
       "id": "retro-bowl-3kh0",
       "title": "Retro Bowl 3kh0",
       "slug": "retro-bowl-3kh0",
@@ -91,7 +109,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 5,
+      "number": 6,
       "id": "retro-bowl-college",
       "title": "Retro Bowl College",
       "slug": "retro-bowl-college",
@@ -109,7 +127,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 6,
+      "number": 7,
       "id": "retro-bowl-fan-made",
       "title": "Retro Bowl Fan-made",
       "slug": "retro-bowl-fan-made",
@@ -127,7 +145,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 7,
+      "number": 8,
       "id": "retro-bowl-unblocked-76",
       "title": "Retro Bowl Unblocked 76",
       "slug": "retro-bowl-unblocked-76",
@@ -145,7 +163,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 8,
+      "number": 9,
       "id": "axis-football-league",
       "title": "Axis Football League",
       "slug": "axis-football-league",
@@ -163,7 +181,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 9,
+      "number": 10,
       "id": "soccer-random",
       "title": "Soccer Random",
       "slug": "soccer-random",
@@ -181,7 +199,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 10,
+      "number": 11,
       "id": "tecmo-super-bowl-II-special-edition",
       "title": "Tecmo Super Bowl II - Special edition (USA)",
       "slug": "tecmo-super-bowl-II-special-edition",
@@ -199,7 +217,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 11,
+      "number": 12,
       "id": "tecmo-super-bowl-III-special-edition",
       "title": "Tecmo Super Bowl III - Special edition (USA)",
       "slug": "tecmo-super-bowl-III-special-edition",
@@ -217,7 +235,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 12,
+      "number": 13,
       "id": "american-football-challenge",
       "title": "American Football Challenge",
       "slug": "american-football-challenge",
@@ -235,7 +253,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 13,
+      "number": 14,
       "id": "minicars-soccer",
       "title": "Minicars Soccer",
       "slug": "minicars-soccer",
@@ -253,7 +271,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 14,
+      "number": 15,
       "id": "nfl-retro-bowl-25",
       "title": "NFL Retro Bowl 25",
       "slug": "nfl-retro-bowl-25",
@@ -271,7 +289,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 15,
+      "number": 16,
       "id": "new-star-soccer",
       "title": "New Star Soccer",
       "slug": "new-star-soccer",
@@ -289,7 +307,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 16,
+      "number": 17,
       "id": "football-legends",
       "title": "football-legends",
       "slug": "football-legends",
@@ -307,7 +325,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 17,
+      "number": 18,
       "id": "4th-and-goal-2022",
       "title": "4th and Goal 2022",
       "slug": "4th-and-goal-2022",
@@ -325,7 +343,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 18,
+      "number": 19,
       "id": "penalty-kick-online",
       "title": "Penalty Kick Online",
       "slug": "penalty-kick-online",
@@ -343,7 +361,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 19,
+      "number": 20,
       "id": "american-touchdown-game",
       "title": "American Touchdown Game",
       "slug": "american-touchdown-game",
@@ -361,7 +379,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 20,
+      "number": 21,
       "id": "geometry-dash",
       "title": "Geometry Dash",
       "slug": "geometry-dash",
@@ -393,7 +411,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 21,
+      "number": 22,
       "id": "geometry-dash-lite",
       "title": "Geometry Dash Lite",
       "slug": "geometry-dash-lite",
@@ -425,7 +443,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 22,
+      "number": 23,
       "id": "geometry-dash-world",
       "title": "Geometry Dash World",
       "slug": "geometry-dash-world",
@@ -457,7 +475,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 23,
+      "number": 24,
       "id": "geometry-dash-subzero",
       "title": "Geometry Dash Subzero",
       "slug": "geometry-dash-subzero",
@@ -489,7 +507,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 24,
+      "number": 25,
       "id": "geometry-dash-meltdown",
       "title": "Geometry Dash Meltdown",
       "slug": "geometry-dash-meltdown",
@@ -521,7 +539,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 25,
+      "number": 26,
       "id": "geometry-dash-wave",
       "title": "Geometry Dash Wave",
       "slug": "geometry-dash-wave",
@@ -553,7 +571,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 26,
+      "number": 27,
       "id": "geometry-open-world",
       "title": "Geometry Open World",
       "slug": "geometry-open-world",
@@ -585,7 +603,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 27,
+      "number": 28,
       "id": "geometry-arrow",
       "title": "Geometry Arrow",
       "slug": "geometry-arrow",
@@ -617,7 +635,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 28,
+      "number": 29,
       "id": "geometry-jump",
       "title": "Geometry Jump",
       "slug": "geometry-jump",
@@ -649,7 +667,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 29,
+      "number": 30,
       "id": "doodle-baseball",
       "title": "Doodle Baseball",
       "slug": "doodle-baseball",
@@ -683,7 +701,7 @@
       ]
     },
     {
-      "number": 30,
+      "number": 31,
       "id": "wordle",
       "title": "Wordle",
       "slug": "wordle",
@@ -716,7 +734,7 @@
       ]
     },
     {
-      "number": 31,
+      "number": 32,
       "id": "sudoku",
       "title": "Sudoku",
       "slug": "sudoku",
@@ -746,7 +764,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 32,
+      "number": 33,
       "id": "pac-man",
       "title": "Pac-Man",
       "slug": "pac-man",
@@ -776,7 +794,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 33,
+      "number": 34,
       "id": "basketball",
       "title": "Basketball",
       "slug": "basketball",
@@ -806,7 +824,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 34,
+      "number": 35,
       "id": "2048",
       "title": "2048",
       "slug": "2048",
@@ -838,7 +856,7 @@
       ]
     },
     {
-      "number": 35,
+      "number": 36,
       "id": "2048-drop",
       "title": "2048 Drop",
       "slug": "2048-drop",
@@ -870,7 +888,7 @@
       ]
     },
     {
-      "number": 36,
+      "number": 37,
       "id": "sprunki",
       "title": "Sprunki",
       "slug": "sprunki",
@@ -900,7 +918,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 37,
+      "number": 38,
       "id": "subway-surfers",
       "title": "Subway Surfers",
       "slug": "subway-surfers",
@@ -930,7 +948,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 38,
+      "number": 39,
       "id": "minesweeper",
       "title": "Minesweeper",
       "slug": "minesweeper",
@@ -960,7 +978,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 39,
+      "number": 40,
       "id": "google-minesweeper",
       "title": "Google Minesweeper",
       "slug": "google-minesweeper",
@@ -990,7 +1008,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 40,
+      "number": 41,
       "id": "minecraft",
       "title": "Minecraft",
       "slug": "minecraft",
@@ -1021,7 +1039,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 41,
+      "number": 42,
       "id": "dinosaur-game",
       "title": "Dinosaur Game",
       "slug": "dinosaur-game",
@@ -1051,7 +1069,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 42,
+      "number": 43,
       "id": "snake-game",
       "title": "Snake Game",
       "slug": "snake-game",
@@ -1081,7 +1099,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 43,
+      "number": 44,
       "id": "wacky-flip",
       "title": "Wacky Flip",
       "slug": "wacky-flip",
@@ -1109,7 +1127,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 44,
+      "number": 45,
       "id": "speed-stars",
       "title": "Speed Stars",
       "slug": "speed-stars",
@@ -1145,7 +1163,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 45,
+      "number": 46,
       "id": "fortnite-unblocked",
       "title": "Fortnite Unblocked",
       "slug": "fortnite-unblocked",
@@ -1183,7 +1201,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 46,
+      "number": 47,
       "id": "slope-2",
       "title": "Slope 2",
       "slug": "slope-2",
@@ -1219,7 +1237,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 47,
+      "number": 48,
       "id": "flying-kong",
       "title": "Flying Kong",
       "slug": "flying-kong",
@@ -1255,7 +1273,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 48,
+      "number": 49,
       "id": "italian-brainrot-clicker",
       "title": "Italian Brainrot Clicker",
       "slug": "italian-brainrot-clicker",
@@ -1291,7 +1309,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 49,
+      "number": 50,
       "id": "stickman-clash",
       "title": "Stickman Clash",
       "slug": "stickman-clash",
@@ -1328,7 +1346,7 @@
       "relatedGameIds": []
     },
     {
-      "number": 50,
+      "number": 51,
       "id": "golf-hit",
       "title": "Golf Hit",
       "slug": "golf-hit",
