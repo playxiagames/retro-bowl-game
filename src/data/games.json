@@ -5,29 +5,36 @@
       "id": "retro-bowl",
       "title": "Retro Bowl Game",
       "slug": "retro-bowl",
-      "description": "Manage your football team to championship glory in nostalgic 8-bit style. Draft players, handle contracts, and control exciting on-field action.",
+      "description": "Manage your football team to championship glory in nostalgic 8-bit style. Draft players, handle contracts, control exciting on-field action, and build a dynasty.",
       "longDescription": "Retro Bowl combines team management with on-field action in a nostalgic 8-bit style football game. Draft players, manage your roster, handle the press, and lead your team to championship glory. The game features simple controls for passing plays while offering deep team management mechanics. Balance your salary cap, keep players happy, and make strategic decisions both on and off the field.",
       "category": "retro-bowl",
       "tags": [
         "retro bowl",
         "sports",
-        "football"
+        "football",
+        "management",
+        "8-bit",
+        "strategy"
       ],
       "iframeUrl": "https://1games.io/embed/retro-bowl",
       "thumbnail": "https://images.geometry-dash-lite.org/retro-bowl-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/retro-bowl-thumbnail.webp",
-      "playCount": 2100000,
-      "rating": 4.8,
+      "playCount": 5000000,
+      "rating": 4.7,
+      "ratingCount": 913200,
+      "reviewCount": 50700,
       "controls": [
         "Click to select receiver",
         "Drag to aim pass",
-        "Tap to run with quarterback"
+        "Tap to run with quarterback",
+        "Mouse to control on-field actions"
       ],
       "tips": [
         "Balance offense and defense in your roster",
         "Manage player morale and contracts carefully",
         "Upgrade facilities to improve team performance",
-        "Read the defense before making passes"
+        "Read the defense before making passes",
+        "Keep fans happy with good performance"
       ],
       "relatedGameIds": [
         "retro-bowl-college",
@@ -41,8 +48,8 @@
       "id": "retro-bowl-2",
       "title": "Retro Bowl 2",
       "slug": "retro-bowl-2",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "The enhanced sequel featuring updated graphics, expanded management options, and improved gameplay mechanics. Lead your team with deeper strategy and polish.",
+      "longDescription": "Retro Bowl 2 builds upon the beloved original with significant improvements across all areas. Experience enhanced 8-bit graphics, expanded team management features, and refined on-field gameplay that maintains the nostalgic charm while adding modern conveniences. This sequel offers deeper roster management, improved AI, and smoother controls that make both offensive and defensive plays more satisfying. Whether you're managing contracts, training players, or calling plays, every aspect has been polished to perfection.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://game316009.konggames.com/gamez/0031/6009/live/index.html",
@@ -59,8 +66,8 @@
       "id": "retro-bowl-unblocked",
       "title": "Retro Bowl Unblocked",
       "slug": "retro-bowl-unblocked",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Browser-accessible version of the hit football game bypassing network restrictions. Enjoy the full Retro Bowl experience anywhere with smooth gameplay.",
+      "longDescription": "Retro Bowl Unblocked brings the complete football management and gameplay experience to any browser without restrictions. This version maintains all the features of the original - from drafting players and managing contracts to executing perfect touchdown passes. Play at school, work, or anywhere internet filters might block gaming sites. The unblocked version ensures smooth performance and full functionality, letting you build your dynasty and lead your team to championship glory without limitations.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://retrobowl.me/iframe/retro-bowl/latest2.html",
@@ -77,8 +84,8 @@
       "id": "retro-bowl-25",
       "title": "Retro Bowl 25",
       "slug": "retro-bowl-25",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "The 2025 edition featuring current NFL rosters, updated player stats, and modern team dynamics. Experience the latest season with authentic teams and players.",
+      "longDescription": "Retro Bowl 25 brings the franchise into the current era with updated NFL rosters, contemporary player ratings, and modern team strategies. This edition features the latest player transfers, rookie classes, and team dynamics that reflect the 2025 NFL season. While maintaining the classic 8-bit aesthetic and intuitive gameplay, Retro Bowl 25 incorporates current playing styles, updated uniforms, and authentic team personalities that make each franchise feel unique and realistic.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://retrobowl.me/iframe/retro-bowl/latest2.html",
@@ -95,8 +102,8 @@
       "id": "retro-bowl-3kh0",
       "title": "Retro Bowl 3kh0",
       "slug": "retro-bowl-3kh0",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Special community-hosted version optimized for educational networks. Enjoy unrestricted access to the full football management experience in schools.",
+      "longDescription": "Retro Bowl 3kh0 is a specially optimized version designed for educational environments and networks with gaming restrictions. This community-supported edition ensures students and educators can access the complete Retro Bowl experience including team management, player development, and on-field action. The 3kh0 version maintains full compatibility with save features and achievements while providing reliable performance across various network configurations and browser environments.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://falloutscript.github.io/Retrobowl/",
@@ -113,17 +120,38 @@
       "id": "retro-bowl-college",
       "title": "Retro Bowl College",
       "slug": "retro-bowl-college",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "The official college football spin-off featuring 250 teams, academic management, and recruitment challenges. Guide student athletes while managing tight budgets and campus life distractions.",
+      "longDescription": "Retro Bowl College is the official spin-off of the smash hit Retro Bowl that takes you back to the old-school college football experience. Make a name for yourself as a winning Head Coach for one of 250 College teams. Manage tight budgets and encourage your hotheaded young players to keep their eye on the ball when they're surrounded by the temptations and distractions of College life. Can you tell the difference between the next Pro Football superstar and the party animal who doesn't know when to quit? Foster their talents, help them make the Draft, and turn your school into the greatest Football College of all time.",
       "category": "retro-bowl",
-      "tags": [],
+      "tags": [
+        "retro bowl",
+        "college football",
+        "management",
+        "recruitment",
+        "academic",
+        "campus life"
+      ],
       "iframeUrl": "https://classroomjq.github.io/retro-bowl-college/",
       "thumbnail": "https://images.geometry-dash-lite.org/retro-bowl-college.webp",
       "screenshot": "https://images.geometry-dash-lite.org/retro-bowl-college.webp",
-      "playCount": 1180000,
+      "playCount": 1500000,
       "rating": 4.3,
-      "controls": [],
-      "tips": [],
+      "ratingCount": 9000,
+      "reviewCount": 1500,
+      "controls": [
+        "Click to select receiver",
+        "Drag to aim pass",
+        "Tap to run with quarterback",
+        "Manage player GPA and scholarships",
+        "Navigate recruiting interface"
+      ],
+      "tips": [
+        "Monitor player GPAs to maintain eligibility",
+        "Recruit wisely within budget constraints",
+        "Balance star power with character concerns",
+        "Help players prepare for the NFL Draft",
+        "Manage campus life distractions effectively"
+      ],
       "relatedGameIds": []
     },
     {
@@ -131,8 +159,8 @@
       "id": "retro-bowl-fan-made",
       "title": "Retro Bowl Fan-made",
       "slug": "retro-bowl-fan-made",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Community-created tribute featuring creative gameplay modifications and unique features. Experience fan-driven innovation with nostalgic football action.",
+      "longDescription": "Retro Bowl Fan-made is a passionate community tribute that reimagines the classic football formula with creative modifications and unique features. Built by dedicated fans, this version explores new gameplay mechanics, custom team options, and innovative play styles while maintaining the beloved retro aesthetic. The fan-made version showcases the creativity of the gaming community, offering fresh perspectives on team management and on-field action that complement the original vision.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://scratch.mit.edu/projects/620074259/embed",
@@ -149,8 +177,8 @@
       "id": "retro-bowl-unblocked-76",
       "title": "Retro Bowl Unblocked 76",
       "slug": "retro-bowl-unblocked-76",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Specialized unblocked version designed for broader network compatibility. Access the complete football management experience without restrictions.",
+      "longDescription": "Retro Bowl Unblocked 76 offers enhanced network compatibility and improved access for users on restricted networks. This version maintains all core gameplay features including team management, player development, and strategic football action while ensuring reliable performance across different network configurations. The 76 edition focuses on stability and accessibility, making it the preferred choice for educational institutions and workplaces seeking unrestricted gaming access.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://retrobowl.me/iframe/retro-bowl/latest2.html",
@@ -167,17 +195,38 @@
       "id": "axis-football-league",
       "title": "Axis Football League",
       "slug": "axis-football-league",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Complete American football simulation with comprehensive franchise mode, custom leagues, and realistic gameplay mechanics. Features advanced AI and detailed player statistics.",
+      "longDescription": "Axis Football League delivers a complete American Football simulation experience featuring fluid gameplay, endless customization, and the industry's best franchise mode. Build your team through drafts, free agency, and trades while managing salary caps and player development. The game includes realistic physics, advanced AI, and comprehensive statistics tracking. Create custom leagues, design plays, and lead your team through multiple seasons of challenging football action.",
       "category": "retro-bowl",
-      "tags": [],
+      "tags": [
+        "axis football",
+        "football simulation",
+        "franchise mode",
+        "custom leagues",
+        "realistic gameplay",
+        "team management"
+      ],
       "iframeUrl": "https://ubg89.github.io/AxisFootballLeague/",
       "thumbnail": "https://images.geometry-dash-lite.org/axis-football-league.webp",
       "screenshot": "https://images.geometry-dash-lite.org/axis-football-league.webp",
-      "playCount": 1180000,
-      "rating": 4.3,
-      "controls": [],
-      "tips": [],
+      "playCount": 850000,
+      "rating": 4.2,
+      "ratingCount": 180000,
+      "reviewCount": 65000,
+      "controls": [
+        "WASD or arrow keys for player movement",
+        "Mouse for camera and targeting",
+        "Space for snap/action button",
+        "Number keys for formation selection",
+        "Tab for play calling interface"
+      ],
+      "tips": [
+        "Study the playbook to master different formations",
+        "Manage your salary cap carefully in franchise mode",
+        "Scout players thoroughly before the draft",
+        "Adjust difficulty settings for optimal challenge",
+        "Use practice mode to learn advanced controls"
+      ],
       "relatedGameIds": []
     },
     {
@@ -185,17 +234,37 @@
       "id": "soccer-random",
       "title": "Soccer Random",
       "slug": "soccer-random",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Hilarious physics-based soccer game with unpredictable controls and chaotic gameplay. Score goals while dealing with constantly changing field conditions and wacky physics.",
+      "longDescription": "Soccer Random is a wildly entertaining physics-based soccer game that throws conventional football out the window. Experience chaotic matches where the playing field, weather, and even your players change randomly during gameplay. One moment you're playing with normal players on a standard field, the next you might be controlling robots in zero gravity or playing underwater with fish. The unpredictable nature of the game creates hilarious moments and unexpected challenges that keep every match exciting and fresh.",
       "category": "retro-bowl",
-      "tags": [],
+      "tags": [
+        "soccer random",
+        "physics",
+        "soccer",
+        "funny",
+        "chaotic",
+        "unpredictable"
+      ],
       "iframeUrl": "https://ubg98.github.io/FootballLegends/",
       "thumbnail": "https://images.geometry-dash-lite.org/soccer-random.webp",
       "screenshot": "https://images.geometry-dash-lite.org/soccer-random.webp",
-      "playCount": 1180000,
-      "rating": 4.3,
-      "controls": [],
-      "tips": [],
+      "playCount": 2800000,
+      "rating": 4.5,
+      "ratingCount": 650000,
+      "reviewCount": 18500,
+      "controls": [
+        "Arrow keys or WASD to move",
+        "Space or Up arrow to jump/kick",
+        "Adapt to changing control schemes",
+        "Master unpredictable physics"
+      ],
+      "tips": [
+        "Embrace the chaos - don't fight the physics",
+        "Adapt quickly to changing field conditions",
+        "Use the randomness to your advantage",
+        "Focus on having fun rather than perfect control",
+        "Learn to predict your player's movements"
+      ],
       "relatedGameIds": []
     },
     {
@@ -203,17 +272,38 @@
       "id": "tecmo-super-bowl-II-special-edition",
       "title": "Tecmo Super Bowl II - Special edition (USA)",
       "slug": "tecmo-super-bowl-II-special-edition",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Classic 16-bit football simulation featuring authentic NFL teams and players from the 1993 season. Experience nostalgic arcade-style gameplay with realistic team management.",
+      "longDescription": "Tecmo Super Bowl II: Special Edition brings the beloved retro football experience to the 16-bit era with updated graphics, sound, and gameplay mechanics. Featuring authentic NFL teams and rosters from the 1993 season, this classic offers both arcade-style action and strategic team management. Choose from all 28 NFL teams and guide them through a full season with realistic statistics, injuries, and player development. The game maintains the fast-paced, accessible gameplay that made the original famous while adding depth and visual polish.",
       "category": "retro-bowl",
-      "tags": [],
+      "tags": [
+        "tecmo super bowl",
+        "retro football",
+        "NFL",
+        "16-bit",
+        "arcade sports",
+        "classic"
+      ],
       "iframeUrl": "https://www.retrogames.cc/embed/22932-tecmo-super-bowl-ii-special-edition-usa.html",
       "thumbnail": "https://images.geometry-dash-lite.org/tecmo-super-bowl-II-special-edition.webp",
       "screenshot": "https://images.geometry-dash-lite.org/tecmo-super-bowl-II-special-edition.webp",
-      "playCount": 1180000,
-      "rating": 4.3,
-      "controls": [],
-      "tips": [],
+      "playCount": 420000,
+      "rating": 4.6,
+      "ratingCount": 85000,
+      "reviewCount": 2800,
+      "controls": [
+        "D-pad for player movement",
+        "A button to snap/throw/kick",
+        "B button for turbo speed",
+        "Start to pause game",
+        "Select for play calling"
+      ],
+      "tips": [
+        "Learn each team's strengths and weaknesses",
+        "Master the timing for passes and kicks",
+        "Use turbo sparingly to avoid fatigue",
+        "Study opponent patterns for interceptions",
+        "Manage player stamina throughout the season"
+      ],
       "relatedGameIds": []
     },
     {
@@ -221,8 +311,8 @@
       "id": "tecmo-super-bowl-III-special-edition",
       "title": "Tecmo Super Bowl III - Special edition (USA)",
       "slug": "tecmo-super-bowl-III-special-edition",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "The final evolution of the legendary 16-bit football series featuring 28 NFL teams, enhanced graphics, and refined arcade-style gameplay mechanics.",
+      "longDescription": "Tecmo Super Bowl III: Final Edition represents the pinnacle of 16-bit football gaming, featuring all 28 NFL teams with authentic rosters and enhanced gameplay mechanics. This final installment perfects the arcade-style action that made the series famous, with improved graphics, smoother animations, and refined controls. Experience classic football simulation with season mode, playoffs, and exhibition matches, all wrapped in the nostalgic presentation that defined an era of sports gaming. The Special Edition includes additional features and optimizations that make it the definitive Tecmo Super Bowl experience.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://www.retrogames.cc/embed/23620-tecmo-super-bowl-iii-final-edition-usa.html",
@@ -239,17 +329,37 @@
       "id": "american-football-challenge",
       "title": "American Football Challenge",
       "slug": "american-football-challenge",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Test your catching skills in this arcade-style football game. Time your catches perfectly to score points and advance through increasingly difficult levels.",
+      "longDescription": "American Football Challenge puts you in the shoes of a wide receiver trying to catch passes from your quarterback. The game focuses on timing and precision as you control gloves to catch footballs thrown at varying speeds and trajectories. Each level increases the difficulty with faster throws, more challenging angles, and additional obstacles. Perfect your catching technique to advance through multiple levels and achieve the highest possible score in this skill-based football mini-game.",
       "category": "retro-bowl",
-      "tags": [],
+      "tags": [
+        "american football",
+        "catching",
+        "arcade",
+        "skill game",
+        "timing",
+        "quarterback"
+      ],
       "iframeUrl": "https://unblocked-games.s3.amazonaws.com/games/2021/unity3/american-touchdown/unblocked.html",
       "thumbnail": "https://images.geometry-dash-lite.org/american-football-challenge.webp",
       "screenshot": "https://images.geometry-dash-lite.org/american-football-challenge.webp",
-      "playCount": 1180000,
-      "rating": 4.3,
-      "controls": [],
-      "tips": [],
+      "playCount": 320000,
+      "rating": 4.0,
+      "ratingCount": 45000,
+      "reviewCount": 1200,
+      "controls": [
+        "Mouse to move the receiver gloves",
+        "Click to attempt catch",
+        "Track the ball's trajectory",
+        "Time your catches perfectly"
+      ],
+      "tips": [
+        "Watch the ball's path carefully before catching",
+        "Practice timing for different throw speeds",
+        "Anticipate where the ball will be, not where it is",
+        "Stay focused as levels get progressively harder",
+        "Aim for perfect catches to maximize points"
+      ],
       "relatedGameIds": []
     },
     {
@@ -257,17 +367,36 @@
       "id": "minicars-soccer",
       "title": "Minicars Soccer",
       "slug": "minicars-soccer",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Rocket League-inspired vehicular soccer featuring remote-controlled cars and physics-based ball control. Score goals using turbo boosts and aerial maneuvers.",
+      "longDescription": "Minicars Soccer combines the excitement of soccer with fast-paced vehicular action in this physics-based sports game. Control miniature remote-controlled cars as you chase a soccer ball around colorful arenas, using turbo boosts, jumps, and skilled maneuvering to score spectacular goals. The game features realistic car physics and ball dynamics that create unpredictable and exciting moments. Whether playing solo against AI or competing with friends, Minicars Soccer delivers arcade-style fun with simple controls and addictive gameplay.",
       "category": "retro-bowl",
-      "tags": [],
-      "iframeUrl": "https://www.y2.ee/full/minicars-soccer-official/",
-      "thumbnail": "https://images.geometry-dash-lite.org/minicars-soccer.webp",
-      "screenshot": "https://images.geometry-dash-lite.org/minicars-soccer.webp",
+      "tags": [
+        "soccer",
+        "vehicular",
+        "turbo boosts",
+        "aerial maneuvers",
+        "physics-based"
+      ],
+      "iframeUrl": "https://1games.io/embed/minicars-soccer",
+      "thumbnail": "https://images.geometry-dash-lite.org/minicars-soccer-thumbnail.webp",
+      "screenshot": "https://images.geometry-dash-lite.org/minicars-soccer-thumbnail.webp",
       "playCount": 1180000,
       "rating": 4.3,
-      "controls": [],
-      "tips": [],
+      "ratingCount": 200000,
+      "reviewCount": 72000,
+      "controls": [
+        "Click to move",
+        "Hold to accelerate",
+        "Tap to jump",
+        "Swipe to steer"
+      ],
+      "tips": [
+        "Use turbo boosts strategically",
+        "Jump for aerial maneuvers",
+        "Steer to avoid obstacles",
+        "Practice to improve timing and precision",
+        "Focus on the ball's trajectory"
+      ],
       "relatedGameIds": []
     },
     {
@@ -275,17 +404,39 @@
       "id": "nfl-retro-bowl-25",
       "title": "NFL Retro Bowl 25",
       "slug": "nfl-retro-bowl-25",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Official NFL-licensed version featuring authentic teams, players, and statistics from the 2025 season. Experience professional football with retro charm.",
+      "longDescription": "NFL Retro Bowl 25 brings the authentic National Football League experience to the beloved retro-style format. Featuring official NFL teams, current player rosters, and real statistics from the 2025 season, this licensed version combines the charm of 8-bit aesthetics with the excitement of professional football. Manage your favorite NFL franchise, make strategic decisions, and lead your team through the regular season and playoffs using authentic team strategies and player abilities.",
       "category": "retro-bowl",
-      "tags": [],
-      "iframeUrl": "https://retrobowl.me/iframe/retro-bowl/latest2.html",
-      "thumbnail": "https://images.geometry-dash-lite.org/nfl-retro-bowl-25.webp",
-      "screenshot": "https://images.geometry-dash-lite.org/nfl-retro-bowl-25.webp",
+      "tags": [
+        "NFL",
+        "retro-style",
+        "authentic",
+        "team management",
+        "strategic",
+        "football"
+      ],
+      "iframeUrl": "https://1games.io/embed/nfl-retro-bowl-25",
+      "thumbnail": "https://images.geometry-dash-lite.org/nfl-retro-bowl-25-thumbnail.webp",
+      "screenshot": "https://images.geometry-dash-lite.org/nfl-retro-bowl-25-thumbnail.webp",
       "playCount": 1180000,
       "rating": 4.3,
-      "controls": [],
-      "tips": [],
+      "ratingCount": 200000,
+      "reviewCount": 72000,
+      "controls": [
+        "WASD or arrow keys to move",
+        "Mouse to look around and aim",
+        "Left click to shoot/build",
+        "Right click for precise aim",
+        "F to build/interact",
+        "Number keys 1-6 to switch weapons/building structures"
+      ],
+      "tips": [
+        "Land in less crowded areas to gather loot safely",
+        "Always stay within the storm circle",
+        "Build walls and ramps for protection and mobility",
+        "Collect materials by harvesting objects in the environment",
+        "Listen for enemy footsteps and gunfire to locate opponents"
+      ],
       "relatedGameIds": []
     },
     {
@@ -293,17 +444,39 @@
       "id": "new-star-soccer",
       "title": "New Star Soccer",
       "slug": "new-star-soccer",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Comprehensive soccer management game blending career progression with on-field action. Develop your player from rookie to superstar through skill and lifestyle choices.",
+      "longDescription": "New Star Soccer offers an immersive soccer experience that combines player career development with engaging on-field gameplay. Start as a young hopeful and navigate the complexities of professional soccer, managing relationships with teammates, coaches, and fans while developing your skills through training and match performance. The game features deep management mechanics including contract negotiations, lifestyle choices, and personal relationships that all impact your career trajectory and on-field success.",
       "category": "retro-bowl",
-      "tags": [],
-      "iframeUrl": "https://y2.ee/g/new-star-soccer/",
-      "thumbnail": "https://images.geometry-dash-lite.org/new-star-soccer.webp",
-      "screenshot": "https://images.geometry-dash-lite.org/new-star-soccer.webp",
+      "tags": [
+        "soccer",
+        "career progression",
+        "on-field action",
+        "management",
+        "skill development",
+        "lifestyle choices"
+      ],
+      "iframeUrl": "https://1games.io/embed/new-star-soccer",
+      "thumbnail": "https://images.geometry-dash-lite.org/new-star-soccer-thumbnail.webp",
+      "screenshot": "https://images.geometry-dash-lite.org/new-star-soccer-thumbnail.webp",
       "playCount": 1180000,
       "rating": 4.3,
-      "controls": [],
-      "tips": [],
+      "ratingCount": 200000,
+      "reviewCount": 72000,
+      "controls": [
+        "WASD or arrow keys to move",
+        "Mouse to look around and aim",
+        "Left click to shoot/build",
+        "Right click for precise aim",
+        "F to build/interact",
+        "Number keys 1-6 to switch weapons/building structures"
+      ],
+      "tips": [
+        "Land in less crowded areas to gather loot safely",
+        "Always stay within the storm circle",
+        "Build walls and ramps for protection and mobility",
+        "Collect materials by harvesting objects in the environment",
+        "Listen for enemy footsteps and gunfire to locate opponents"
+      ],
       "relatedGameIds": []
     },
     {
@@ -311,17 +484,39 @@
       "id": "football-legends",
       "title": "football-legends",
       "slug": "football-legends",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Arcade-style soccer game featuring legendary players with special abilities and supershots. Compete in tournaments with iconic football stars and their unique skills.",
+      "longDescription": "Football Legends brings together the greatest soccer players of all time in an arcade-style tournament format. Each legendary player features unique abilities, special moves, and signature supershots that reflect their real-world playing style. The game offers various modes including tournaments, friendly matches, and quick play options, with both single-player and multiplayer support. Experience fast-paced soccer action with simplified controls that emphasize fun and accessibility while celebrating football's greatest icons.",
       "category": "retro-bowl",
-      "tags": [],
-      "iframeUrl": "https://football-legends.io/iframe/index.html",
-      "thumbnail": "https://images.geometry-dash-lite.org/football-legends.webp",
-      "screenshot": "https://images.geometry-dash-lite.org/football-legends.webp",
+      "tags": [
+        "soccer",
+        "legendary players",
+        "special abilities",
+        "supershots",
+        "tournaments",
+        "friendly matches"
+      ],
+      "iframeUrl": "https://1games.io/embed/football-legends",
+      "thumbnail": "https://images.geometry-dash-lite.org/football-legends-thumbnail.webp",
+      "screenshot": "https://images.geometry-dash-lite.org/football-legends-thumbnail.webp",
       "playCount": 1180000,
       "rating": 4.3,
-      "controls": [],
-      "tips": [],
+      "ratingCount": 200000,
+      "reviewCount": 72000,
+      "controls": [
+        "WASD or arrow keys to move",
+        "Mouse to look around and aim",
+        "Left click to shoot/build",
+        "Right click for precise aim",
+        "F to build/interact",
+        "Number keys 1-6 to switch weapons/building structures"
+      ],
+      "tips": [
+        "Land in less crowded areas to gather loot safely",
+        "Always stay within the storm circle",
+        "Build walls and ramps for protection and mobility",
+        "Collect materials by harvesting objects in the environment",
+        "Listen for enemy footsteps and gunfire to locate opponents"
+      ],
       "relatedGameIds": []
     },
     {
@@ -329,8 +524,8 @@
       "id": "4th-and-goal-2022",
       "title": "4th and Goal 2022",
       "slug": "4th-and-goal-2022",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Updated edition of the popular American football simulation featuring 2022 teams, players, and strategies. Experience modern NFL action with tactical depth.",
+      "longDescription": "4th and Goal 2022 brings the excitement of American football to your browser with updated rosters, current team strategies, and modern gameplay mechanics. This edition features the 2022 NFL season with authentic team formations, player abilities, and strategic options that reflect contemporary football. Make crucial decisions on 4th down situations, manage your offensive and defensive schemes, and lead your team to victory through smart play calling and execution.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://23azostore.github.io/s2/4th-and-goal-2022/",
@@ -347,8 +542,8 @@
       "id": "penalty-kick-online",
       "title": "Penalty Kick Online",
       "slug": "penalty-kick-online",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Intense penalty shootout game testing precision and nerve under pressure. Master the art of scoring and saving penalties in high-stakes situations.",
+      "longDescription": "Penalty Kick Online puts you in the most pressure-filled moments of soccer - the penalty shootout. Take turns as both striker and goalkeeper, using precise timing and psychological tactics to outsmart your opponent. The game features realistic physics, varying shot power and placement options, and keeper reactions that make every penalty a heart-pounding moment. Perfect your technique and mental fortitude as you compete in sudden-death scenarios that decide championships.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://ubg98.github.io/PenaltyKickOnline/",
@@ -365,8 +560,8 @@
       "id": "american-touchdown-game",
       "title": "American Touchdown Game",
       "slug": "american-touchdown-game",
-      "description": "College football management game with realistic player stats, team rosters, and game simulations. Build your program, recruit players, and compete in the NCAA.",
-      "longDescription": "Retro Bowl College is a comprehensive college football management game that puts you in charge of building and leading your own college football program. Manage your team's roster, schedule, and game strategy to compete in the NCAA. The game features realistic player stats, team rosters, and game simulations that make every play feel authentic. Build your program, recruit players, and develop your team's strategy to win championships. The game combines the strategic depth of college football management with the nostalgic charm of retro sports games, creating a unique and engaging experience for fans of the sport.",
+      "description": "Fast-paced American football action focusing on explosive touchdown plays and strategic offensive drives. Experience the thrill of scoring in the end zone.",
+      "longDescription": "American Touchdown Game delivers high-octane football action with an emphasis on spectacular scoring plays and dynamic offensive strategies. Sprint down the field, dodge defenders, and execute precision passes to reach the end zone in this arcade-style football experience. The game features multiple offensive formations, special plays, and challenging defensive schemes that require both skill and strategy to overcome. Perfect for fans who love the excitement of touchdown celebrations and game-winning drives.",
       "category": "retro-bowl",
       "tags": [],
       "iframeUrl": "https://ubg365.github.io/american-football/",
@@ -390,23 +585,29 @@
         "geometry dash",
         "rhythm",
         "jumping",
-        "obstacles"
+        "obstacles",
+        "platformer",
+        "music"
       ],
       "iframeUrl": "https://scratch.mit.edu/projects/105500895/embed",
       "thumbnail": "https://images.geometry-dash-lite.org/geometry-dash-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/geometry-dash-thumbnail.webp",
-      "playCount": 1200000,
-      "rating": 4.8,
+      "playCount": 10000000,
+      "rating": 4.5,
+      "ratingCount": 1016672,
+      "reviewCount": 358000,
       "controls": [
         "Click or Space to jump/interact",
         "Hold for continuous actions in ship/wave modes",
-        "R to restart current level"
+        "R to restart current level",
+        "ESC to pause game"
       ],
       "tips": [
         "Each game mode has different mechanics to master",
         "Use practice mode to learn level layouts",
         "Focus on the rhythm rather than just visual cues",
-        "Patience is key - some levels require many attempts"
+        "Patience is key - some levels require many attempts",
+        "Listen to the music for timing cues"
       ],
       "relatedGameIds": []
     },
@@ -422,23 +623,29 @@
         "geometry dash",
         "rhythm",
         "jumping",
-        "obstacles"
+        "obstacles",
+        "lite",
+        "free"
       ],
       "iframeUrl": "https://1games.io/game/geometry-lite/",
       "thumbnail": "https://images.geometry-dash-lite.org/geometry-dash-lite-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/geometry-dash-lite-thumbnail.webp",
-      "playCount": 850000,
+      "playCount": 8500000,
       "rating": 4.7,
+      "ratingCount": 7706934,
+      "reviewCount": 250000,
       "controls": [
         "Click or Space to jump",
         "Hold to fly in ship mode",
-        "R to restart level"
+        "R to restart level",
+        "One-touch gameplay"
       ],
       "tips": [
         "Listen to the music rhythm for perfect timing",
         "Practice mode helps you learn difficult sections",
         "Watch for visual cues that sync with the beat",
-        "Start with easier levels to build muscle memory"
+        "Start with easier levels to build muscle memory",
+        "Don't give up - precision comes with practice"
       ],
       "relatedGameIds": []
     },
@@ -447,30 +654,36 @@
       "id": "geometry-dash-world",
       "title": "Geometry Dash World",
       "slug": "geometry-dash-world",
-      "description": "Explore mysterious worlds with unique themes and fresh soundtracks. Travel through challenging levels collecting stars to unlock new mechanics.",
+      "description": "Explore mysterious worlds with unique themes and fresh soundtracks, traveling through challenging levels collecting stars to unlock new mechanics and content.",
       "longDescription": "Geometry Dash World expands the original game with new levels, music, and visual themes. Travel through different worlds, each with its own unique aesthetic and soundtrack. This version introduces new gameplay mechanics and visual effects while maintaining the core rhythm-based platforming that fans love. Perfect for players who want more content after mastering the original levels.",
       "category": "geometry-dash",
       "tags": [
         "geometry dash",
         "rhythm",
         "jumping",
-        "obstacles"
+        "obstacles",
+        "world exploration",
+        "music sync"
       ],
       "iframeUrl": "https://scratch.mit.edu/projects/224236914/embed",
       "thumbnail": "https://images.geometry-dash-lite.org/geometry-dash-world-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/geometry-dash-world-thumbnail.webp",
       "playCount": 680000,
       "rating": 4.6,
+      "ratingCount": 245000,
+      "reviewCount": 89000,
       "controls": [
         "Click or Space to jump",
         "Hold for flying/wave segments",
-        "R to restart level"
+        "R to restart level",
+        "Navigate different themed worlds"
       ],
       "tips": [
         "Each world has a unique theme and music style",
         "New mechanics are introduced gradually",
         "Collect stars to unlock bonus content",
-        "Use the map to track your progress"
+        "Use the map to track your progress",
+        "Practice new mechanics in practice mode"
       ],
       "relatedGameIds": []
     },
@@ -479,30 +692,36 @@
       "id": "geometry-dash-subzero",
       "title": "Geometry Dash Subzero",
       "slug": "geometry-dash-subzero",
-      "description": "Navigate frozen landscapes with ice-themed obstacles and cool electronic beats. Features three winter-inspired levels with unique visual effects.",
+      "description": "Navigate frozen landscapes with ice-themed obstacles and cool electronic beats, featuring three challenging winter-inspired levels with unique visual effects.",
       "longDescription": "Geometry Dash SubZero brings a frosty twist to the series with ice-themed levels and cool electronic beats. Navigate through frozen landscapes filled with icy obstacles and slippery surfaces. The game features three main levels with winter-themed music and visual effects that create a unique atmosphere. Each level offers its own challenges with new obstacle patterns and timing requirements.",
       "category": "geometry-dash",
       "tags": [
         "geometry dash",
         "rhythm",
         "jumping",
-        "obstacles"
+        "obstacles",
+        "ice theme",
+        "winter"
       ],
       "iframeUrl": "https://scratch.mit.edu/projects/216343253/embed",
       "thumbnail": "https://images.geometry-dash-lite.org/geometry-dash-subzero-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/geometry-dash-subzero-thumbnail.webp",
       "playCount": 520000,
       "rating": 4.5,
+      "ratingCount": 180000,
+      "reviewCount": 65000,
       "controls": [
         "Click or Space to jump",
         "Hold for extended actions",
-        "R to restart level"
+        "R to restart level",
+        "Master ice-themed obstacles"
       ],
       "tips": [
         "Ice theme adds visual variety to obstacles",
         "Pay attention to the cold, electronic soundtrack",
         "Some obstacles may have different timing",
-        "Practice the wave sections carefully"
+        "Practice the wave sections carefully",
+        "Focus on rhythm despite visual distractions"
       ],
       "relatedGameIds": []
     },
@@ -511,30 +730,36 @@
       "id": "geometry-dash-meltdown",
       "title": "Geometry Dash Meltdown",
       "slug": "geometry-dash-meltdown",
-      "description": "Face explosive challenges with intense electronic music. Three fiery levels feature industrial soundtracks and molten obstacles testing reflexes.",
+      "description": "Face explosive challenges with intense electronic music across three fiery levels featuring industrial soundtracks and molten obstacles testing your reflexes.",
       "longDescription": "Geometry Dash Meltdown cranks up the intensity with explosive-themed levels and high-energy soundtracks. Face fiery obstacles and molten challenges that test your reflexes to the limit. This edition features three intense levels with industrial and electronic music that perfectly matches the heated gameplay. The visual effects and obstacle designs create an atmosphere of controlled chaos.",
       "category": "geometry-dash",
       "tags": [
         "geometry dash",
         "rhythm",
         "jumping",
-        "obstacles"
+        "obstacles",
+        "fire theme",
+        "intense"
       ],
       "iframeUrl": "https://scratch.mit.edu/projects/143663274/embed",
       "thumbnail": "https://images.geometry-dash-lite.org/geometry-dash-meltdown-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/geometry-dash-meltdown-thumbnail.webp",
       "playCount": 610000,
       "rating": 4.6,
+      "ratingCount": 220000,
+      "reviewCount": 78000,
       "controls": [
         "Click or Space to jump",
         "Hold for continuous movement",
-        "R to restart level"
+        "R to restart level",
+        "Handle explosive obstacles"
       ],
       "tips": [
         "High-energy music requires quick reactions",
         "Explosive theme creates intense visual effects",
         "Focus on rhythm over visual distractions",
-        "Take breaks if you feel overwhelmed"
+        "Take breaks if you feel overwhelmed",
+        "Master timing for rapid-fire sections"
       ],
       "relatedGameIds": []
     },
@@ -543,30 +768,36 @@
       "id": "geometry-dash-wave",
       "title": "Geometry Dash Wave",
       "slug": "geometry-dash-wave",
-      "description": "Master the challenging wave game mode with smooth, flowing movements through narrow passages. Focus on precise control and rhythm synchronization.",
+      "description": "Master the challenging wave game mode with smooth, flowing movements through narrow passages, focusing on precise control and rhythm synchronization techniques.",
       "longDescription": "Geometry Dash Wave focuses on the challenging wave game mode, where smooth, flowing movements are key to success. Control your character as it moves in wave-like patterns through narrow passages and tight spaces. This version emphasizes the wave mechanics with levels specifically designed to test your ability to maintain smooth, controlled movement while following the rhythm of the music.",
       "category": "geometry-dash",
       "tags": [
         "geometry dash",
         "rhythm",
-        "jumping",
-        "obstacles"
+        "wave mode",
+        "smooth movement",
+        "precision",
+        "control"
       ],
       "iframeUrl": "https://scratch.mit.edu/projects/202395548/embed",
       "thumbnail": "https://images.geometry-dash-lite.org/geometry-dash-wave-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/geometry-dash-wave-thumbnail.webp",
       "playCount": 380000,
       "rating": 4.3,
+      "ratingCount": 140000,
+      "reviewCount": 52000,
       "controls": [
         "Hold to move up, release to move down",
         "Smooth movements are key",
-        "R to restart level"
+        "R to restart level",
+        "Master wave physics"
       ],
       "tips": [
         "Wave mode requires smooth, controlled movements",
         "Don't make jerky motions - flow with the music",
         "Practice maintaining steady rhythm",
-        "Focus on the path ahead, not just current position"
+        "Focus on the path ahead, not just current position",
+        "Learn to anticipate tight passages"
       ],
       "relatedGameIds": []
     },
@@ -575,19 +806,24 @@
       "id": "geometry-open-world",
       "title": "Geometry Open World",
       "slug": "geometry-open-world",
-      "description": "Explore a dynamic geometric universe with ship combat, upgrades, and epic boss battles. Combines classic platforming with action-RPG elements.",
+      "description": "Explore a dynamic geometric universe with ship combat, upgrades, and epic boss battles, combining classic platforming with action-RPG exploration elements.",
       "longDescription": "Geometry Open World revolutionizes the traditional Geometry Dash formula by introducing open-world exploration, combat mechanics, and strategic upgrades. Players control a geometric ship navigating through a vibrant 2D world filled with enemies, obstacles, and formidable bosses. Unlike linear levels, this game offers freedom to explore different areas, collect power-ups, and upgrade your ship's abilities including shields and cannons. The dynamic gameplay combines classic geometric platforming with action-RPG elements, creating an engaging experience where players chart their own course through treacherous territories while battling various geometric enemies.",
       "category": "geometry-dash",
       "tags": [
         "open world",
         "ship combat",
-        "boss battles"
+        "boss battles",
+        "RPG elements",
+        "exploration",
+        "upgrades"
       ],
       "iframeUrl": "https://1games.io/embed/geometry-open-world",
       "thumbnail": "https://images.geometry-dash-lite.org/geometry-open-world-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/geometry-open-world-thumbnail.webp",
       "playCount": 1240000,
       "rating": 4.4,
+      "ratingCount": 350000,
+      "reviewCount": 12500,
       "controls": [
         "A/D or Arrow keys to move ship left/right",
         "Q to activate protective shield",
@@ -598,7 +834,8 @@
         "Upgrade your ship's abilities early",
         "Use shields strategically against tough enemies",
         "Explore all areas to find hidden power-ups",
-        "Master cannon timing for boss battles"
+        "Master cannon timing for boss battles",
+        "Balance offense and defense upgrades"
       ],
       "relatedGameIds": []
     },
@@ -607,19 +844,24 @@
       "id": "geometry-arrow",
       "title": "Geometry Arrow",
       "slug": "geometry-arrow",
-      "description": "Pilot arrow-shaped spacecraft through geometric mazes using unique diagonal flight mechanics. Master distinctive movement patterns navigating intricate layouts.",
+      "description": "Pilot arrow-shaped spacecraft through geometric mazes using unique diagonal flight mechanics, mastering distinctive movement patterns while navigating intricate layouts.",
       "longDescription": "Geometry Arrow offers a fresh take on geometric platforming by introducing arrow-shaped spacecraft navigation with unique diagonal flight patterns. Inspired by Geometry Dash's wave mode, this game features six challenging levels ranging from Easy to Demon difficulty. Players must master the arrow's distinctive flight mechanics: pressing and holding to propel diagonally upward, then releasing to descend. The game emphasizes precision and spatial awareness as players navigate through intricate geometric mazes filled with chaotic blocks, twisting corners, and trap-filled passages that require absolute accuracy to survive.",
       "category": "geometry-dash",
       "tags": [
         "arrow spacecraft",
         "diagonal flight",
-        "precision control"
+        "precision control",
+        "maze navigation",
+        "unique mechanics",
+        "challenging"
       ],
       "iframeUrl": "https://1games.io/embed/geometry-arrow",
       "thumbnail": "https://images.geometry-dash-lite.org/geometry-arrow-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/geometry-arrow-thumbnail.webp",
       "playCount": 920000,
       "rating": 4.2,
+      "ratingCount": 280000,
+      "reviewCount": 98000,
       "controls": [
         "Hold key to propel arrow diagonally upward",
         "Release to descend in zigzag pattern",
@@ -630,7 +872,8 @@
         "Focus on smooth, controlled movements",
         "Practice diagonal navigation patterns",
         "Anticipate obstacles with forward planning",
-        "Master the unique arrow flight rhythm"
+        "Master the unique arrow flight rhythm",
+        "Use practice mode to learn difficult sections"
       ],
       "relatedGameIds": []
     },
@@ -639,19 +882,24 @@
       "id": "geometry-jump",
       "title": "Geometry Jump",
       "slug": "geometry-jump",
-      "description": "Master fundamental platforming with emphasis on perfect jump timing and momentum control. Clean geometric aesthetic with progressively challenging levels.",
+      "description": "Master fundamental platforming with emphasis on perfect jump timing and momentum control, featuring clean geometric aesthetics and progressively challenging levels.",
       "longDescription": "Geometry Jump focuses on the fundamental art of platforming with an emphasis on perfect jump timing and momentum control. This game strips away complex mechanics to highlight the pure skill of navigation through geometric obstacles. Players must demonstrate mastery of jump physics, including variable jump heights, momentum conservation, and precise landing techniques. With its clean geometric aesthetic and progressively challenging levels, Geometry Jump serves as both an accessible entry point for newcomers and a skill-testing challenge for experienced players seeking to perfect their fundamental platforming abilities.",
       "category": "geometry-dash",
       "tags": [
         "jump mechanics",
         "platform navigation",
-        "timing precision"
+        "timing precision",
+        "momentum control",
+        "pure platforming",
+        "skill-based"
       ],
       "iframeUrl": "https://1games.io/embed/geometry-jump",
       "thumbnail": "https://images.geometry-dash-lite.org/geometry-jump-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/geometry-jump-thumbnail.webp",
       "playCount": 1120000,
       "rating": 4.1,
+      "ratingCount": 320000,
+      "reviewCount": 11000,
       "controls": [
         "Click or Space for standard jumps",
         "Hold for variable jump heights",
@@ -662,7 +910,8 @@
         "Master different jump heights through hold duration",
         "Learn to judge distances accurately",
         "Practice momentum-based jumping techniques",
-        "Perfect your timing for precise landings"
+        "Perfect your timing for precise landings",
+        "Study level layouts before making jumps"
       ],
       "relatedGameIds": []
     },
@@ -678,23 +927,29 @@
         "doodle baseball",
         "sports",
         "baseball",
-        "classic"
+        "classic",
+        "google doodle",
+        "arcade"
       ],
       "iframeUrl": "https://1games.io/game/doodle-baseball/",
       "thumbnail": "https://images.geometry-dash-lite.org/doodle-baseball-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/doodle-baseball-thumbnail.webp",
-      "playCount": 1800000,
+      "playCount": 18000000,
       "rating": 4.6,
+      "ratingCount": 8500000,
+      "reviewCount": 220000,
       "controls": [
         "Click to swing the bat",
         "Time your swing for best hits",
-        "Aim for different field areas"
+        "Aim for different field areas",
+        "Watch pitcher's hat color for pitch type"
       ],
       "tips": [
         "Watch the ball's trajectory carefully",
         "Time your swing for maximum power",
         "Aim for gaps in the field",
-        "Practice timing with different pitch speeds"
+        "Practice timing with different pitch speeds",
+        "Different colored hats indicate different pitch types"
       ],
       "relatedGameIds": [
         "google-doodle-baseball"
@@ -711,23 +966,30 @@
       "tags": [
         "wordle",
         "word",
-        "word game"
+        "word game",
+        "puzzle",
+        "daily",
+        "viral"
       ],
       "iframeUrl": "https://1games.io/game/wordle/",
       "thumbnail": "https://images.geometry-dash-lite.org/wordle-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/wordle-thumbnail.webp",
-      "playCount": 3200000,
-      "rating": 4.7,
+      "playCount": 45000000,
+      "rating": 4.6,
+      "ratingCount": 15000000,
+      "reviewCount": 8500000,
       "controls": [
         "Type letters to form words",
         "Enter to submit guess",
-        "Backspace to delete letters"
+        "Backspace to delete letters",
+        "Use keyboard to input letters"
       ],
       "tips": [
         "Start with words containing common vowels",
         "Use elimination strategy with consonants",
         "Pay attention to letter frequency",
-        "Think about word patterns and common endings"
+        "Think about word patterns and common endings",
+        "Share your results with friends"
       ],
       "relatedGameIds": [
         ""
@@ -743,23 +1005,31 @@
       "category": "",
       "tags": [
         "sudoku",
-        "puzzle game"
+        "puzzle game",
+        "logic",
+        "numbers",
+        "brain training",
+        "classic"
       ],
       "iframeUrl": "https://1games.io/game/sudoku/",
       "thumbnail": "https://images.geometry-dash-lite.org/sudoku-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/sudoku-thumbnail.webp",
-      "playCount": 1900000,
+      "playCount": 25000000,
       "rating": 4.4,
+      "ratingCount": 5000000,
+      "reviewCount": 120000,
       "controls": [
         "Click cell to select",
         "Type number 1-9 to fill",
-        "Use notes for possible numbers"
+        "Use notes for possible numbers",
+        "Backspace to clear cell"
       ],
       "tips": [
         "Start with cells that have few possibilities",
         "Use elimination technique systematically",
         "Look for naked and hidden singles",
-        "Take notes to track possible numbers"
+        "Take notes to track possible numbers",
+        "Practice with easier puzzles first"
       ],
       "relatedGameIds": []
     },
@@ -773,23 +1043,30 @@
       "category": "google-games",
       "tags": [
         "pac-man",
-        "arcade game"
+        "arcade game",
+        "classic",
+        "maze",
+        "retro"
       ],
       "iframeUrl": "https://1games.io/game/doodle-pacman/pacman.html",
       "thumbnail": "https://images.geometry-dash-lite.org/pacman-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/pacman-thumbnail.webp",
-      "playCount": 2600000,
+      "playCount": 10000000,
       "rating": 4.8,
+      "ratingCount": 2600000,
+      "reviewCount": 688000,
       "controls": [
         "Arrow keys to move",
         "Navigate through maze passages",
-        "Avoid ghosts, collect power pellets"
+        "Avoid ghosts, collect power pellets",
+        "WASD also supported"
       ],
       "tips": [
         "Learn ghost movement patterns",
         "Use corners to change direction quickly",
         "Save power pellets for strategic moments",
-        "Clear one side of the maze at a time"
+        "Clear one side of the maze at a time",
+        "Memorize ghost behavior patterns"
       ],
       "relatedGameIds": []
     },
@@ -798,28 +1075,35 @@
       "id": "basketball",
       "title": "Basketball",
       "slug": "basketball",
-      "description": "Arcade-style hoops action with realistic ball physics and satisfying shooting mechanics. Time your shots perfectly and adjust power and angles for accuracy.",
+      "description": "Arcade-style hoops action featuring realistic ball physics and satisfying shooting mechanics. Time your shots perfectly and adjust power and angles for maximum accuracy.",
       "longDescription": "Basketball brings the excitement of shooting hoops to your browser with arcade-style gameplay. Time your shots perfectly to score baskets and rack up points. The game features realistic ball physics and satisfying shooting mechanics that reward good timing and aim. Whether you're practicing free throws or going for trick shots, this basketball game captures the fun of the sport.",
       "category": "google-games",
       "tags": [
         "basketball",
-        "arcade game"
+        "arcade game",
+        "sports",
+        "shooting",
+        "physics"
       ],
       "iframeUrl": "https://1games.io/game/basketball-2012/",
       "thumbnail": "https://images.geometry-dash-lite.org/basketball-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/basketball-thumbnail.webp",
-      "playCount": 1100000,
+      "playCount": 8500000,
       "rating": 4.2,
+      "ratingCount": 1100000,
+      "reviewCount": 450000,
       "controls": [
         "Click and drag to aim",
         "Release to shoot the ball",
-        "Adjust power and angle for accuracy"
+        "Adjust power and angle for accuracy",
+        "Mouse controls trajectory"
       ],
       "tips": [
         "Practice your timing for consistent shots",
         "Aim for the back of the rim for better bounces",
         "Adjust your power based on distance",
-        "Follow through with your mouse movement"
+        "Follow through with your mouse movement",
+        "Find the sweet spot for different distances"
       ],
       "relatedGameIds": []
     },
@@ -828,28 +1112,36 @@
       "id": "2048",
       "title": "2048",
       "slug": "2048",
-      "description": "The addictive sliding puzzle challenging strategic thinking. Merge numbered tiles by sliding in four directions to reach the coveted 2048 tile.",
+      "description": "The addictive sliding puzzle game challenging strategic thinking and planning. Merge numbered tiles by sliding in four directions to reach the coveted 2048 tile.",
       "longDescription": "2048 is the addictive sliding puzzle game that challenges you to combine numbered tiles. Slide tiles in four directions to merge identical numbers, doubling their value each time. Start with 2s and 4s, and work your way up to the coveted 2048 tile. The game requires strategic thinking and planning ahead, as the grid fills up quickly and wrong moves can end your game.",
       "category": "",
       "tags": [
         "2048",
-        "puzzle game"
+        "puzzle game",
+        "strategy",
+        "sliding",
+        "numbers",
+        "addictive"
       ],
       "iframeUrl": "https://1games.io/game/2048/",
       "thumbnail": "https://images.geometry-dash-lite.org/2048-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/2048-thumbnail.webp",
-      "playCount": 2200000,
+      "playCount": 50000000,
       "rating": 4.6,
+      "ratingCount": 10000000,
+      "reviewCount": 2000000,
       "controls": [
         "Arrow keys or WASD to slide",
         "Swipe on mobile devices",
-        "R to restart game"
+        "R to restart game",
+        "Use mouse on some versions"
       ],
       "tips": [
         "Keep your highest tile in one corner",
         "Build up numbers in rows or columns",
         "Don't randomly slide - plan your moves",
-        "Focus on merging smaller numbers first"
+        "Focus on merging smaller numbers first",
+        "Always think several moves ahead"
       ],
       "relatedGameIds": [
         "2048-drop"
@@ -865,23 +1157,31 @@
       "category": "",
       "tags": [
         "2048 drop",
-        "puzzle game"
+        "puzzle game",
+        "gravity",
+        "dropping",
+        "strategy",
+        "chain reaction"
       ],
       "iframeUrl": "https://1games.io/game/2048-drop/",
       "thumbnail": "https://images.geometry-dash-lite.org/2048-drop-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/2048-drop-thumbnail.webp",
-      "playCount": 890000,
+      "playCount": 8900000,
       "rating": 4.1,
+      "ratingCount": 2500000,
+      "reviewCount": 890000,
       "controls": [
         "Click to drop tiles",
         "Choose drop position carefully",
-        "Watch for merge opportunities"
+        "Watch for merge opportunities",
+        "Plan tile placement strategically"
       ],
       "tips": [
         "Plan drops to create merge chains",
         "Keep similar numbers close together",
         "Don't let the stack get too high",
-        "Look for opportunities to clear multiple merges"
+        "Look for opportunities to clear multiple merges",
+        "Think about gravity when planning moves"
       ],
       "relatedGameIds": [
         "2048"
@@ -897,23 +1197,31 @@
       "category": "",
       "tags": [
         "sprunki",
-        "rhythm"
+        "rhythm",
+        "music",
+        "creative",
+        "experimental",
+        "sound mixing"
       ],
       "iframeUrl": "https://sprunkihorror.io/game/sprunki-original/",
       "thumbnail": "https://images.geometry-dash-lite.org/sprunki-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/sprunki-thumbnail.webp",
-      "playCount": 650000,
+      "playCount": 6500000,
       "rating": 4.3,
+      "ratingCount": 1800000,
+      "reviewCount": 650000,
       "controls": [
         "Drag characters to create music",
         "Mix different sounds and beats",
-        "Experiment with combinations"
+        "Experiment with combinations",
+        "Click to activate sound elements"
       ],
       "tips": [
         "Try different character combinations",
         "Layer sounds to create complex beats",
         "Listen for rhythm patterns",
-        "Don't be afraid to experiment with weird combos"
+        "Don't be afraid to experiment with weird combos",
+        "Record your favorite combinations"
       ],
       "relatedGameIds": []
     },
@@ -927,23 +1235,30 @@
       "category": "",
       "tags": [
         "subway surfers",
-        "arcade game"
+        "arcade game",
+        "endless runner",
+        "action",
+        "adventure"
       ],
       "iframeUrl": "https://1games.io/game/subway-surfs/",
       "thumbnail": "https://images.geometry-dash-lite.org/subway-surfers-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/subway-surfers-thumbnail.webp",
-      "playCount": 3500000,
-      "rating": 4.7,
+      "playCount": 1000000000,
+      "rating": 4.6,
+      "ratingCount": 42100000,
+      "reviewCount": 3400000,
       "controls": [
         "Swipe up to jump",
         "Swipe down to slide",
-        "Swipe left/right to change lanes"
+        "Swipe left/right to change lanes",
+        "Tap to activate power-ups"
       ],
       "tips": [
         "Collect power-ups for special abilities",
         "Use hoverboards to avoid crashes",
         "Complete daily challenges for rewards",
-        "Save up coins for character upgrades"
+        "Save up coins for character upgrades",
+        "Master the timing for obstacle avoidance"
       ],
       "relatedGameIds": []
     },
@@ -957,23 +1272,31 @@
       "category": "",
       "tags": [
         "minesweeper",
-        "puzzle game"
+        "puzzle game",
+        "logic",
+        "classic",
+        "strategy",
+        "deduction"
       ],
       "iframeUrl": "https://gamesonline86.github.io/minesweeper/",
       "thumbnail": "https://images.geometry-dash-lite.org/minesweeper-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/minesweeper-thumbnail.webp",
-      "playCount": 1600000,
+      "playCount": 15000000,
       "rating": 4.4,
+      "ratingCount": 1600000,
+      "reviewCount": 350000,
       "controls": [
         "Left click to reveal squares",
         "Right click to flag mines",
-        "Numbers show adjacent mine count"
+        "Numbers show adjacent mine count",
+        "Double-click for quick reveal"
       ],
       "tips": [
         "Start with corners and edges",
         "Use number clues to deduce mine locations",
         "Flag suspected mines to avoid mistakes",
-        "Look for patterns in number arrangements"
+        "Look for patterns in number arrangements",
+        "Practice on easier difficulty levels first"
       ],
       "relatedGameIds": []
     },
@@ -1017,24 +1340,32 @@
       "category": "",
       "tags": [
         "minecraft",
-        "sandbox game"
+        "sandbox game",
+        "building",
+        "survival",
+        "crafting",
+        "creative"
       ],
       "iframeUrl": "https://eaglercraftx.pages.dev/",
       "thumbnail": "https://images.geometry-dash-lite.org/minecraft-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/minecraft-thumbnail.webp",
-      "playCount": 4200000,
-      "rating": 4.9,
+      "playCount": 54000000,
+      "rating": 4.4,
+      "ratingCount": 5384430,
+      "reviewCount": 761036,
       "controls": [
         "WASD to move",
         "Mouse to look around",
         "Left click to break blocks",
-        "Right click to place blocks"
+        "Right click to place blocks",
+        "Tab to access inventory"
       ],
       "tips": [
         "Start by gathering basic resources",
         "Build shelter before night falls",
         "Experiment with different block combinations",
-        "Explore to find rare materials and biomes"
+        "Explore to find rare materials and biomes",
+        "Use crafting recipes to create advanced tools"
       ],
       "relatedGameIds": []
     },
@@ -1048,23 +1379,31 @@
       "category": "google-games",
       "tags": [
         "dinosaur game",
-        "arcade game"
+        "arcade game",
+        "chrome",
+        "endless runner",
+        "offline",
+        "t-rex"
       ],
       "iframeUrl": "https://dinosaur-game.io/game/t-rex/",
       "thumbnail": "https://images.geometry-dash-lite.org/dinosaur-game-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/dinosaur-game-thumbnail.webp",
-      "playCount": 5800000,
+      "playCount": 580000000,
       "rating": 4.6,
+      "ratingCount": 58000000,
+      "reviewCount": 12000000,
       "controls": [
         "Space or Up arrow to jump",
         "Down arrow to duck",
-        "Avoid cacti and pterodactyls"
+        "Avoid cacti and pterodactyls",
+        "Works with touch on mobile"
       ],
       "tips": [
         "Time your jumps carefully",
         "Duck under flying obstacles",
         "Game speed increases over time",
-        "Focus on rhythm and timing"
+        "Focus on rhythm and timing",
+        "Watch for different obstacle patterns"
       ],
       "relatedGameIds": []
     },
@@ -1073,28 +1412,36 @@
       "id": "snake-game",
       "title": "Snake Game",
       "slug": "snake-game",
-      "description": "The timeless mobile classic where you guide a growing snake to eat food while avoiding walls and yourself. Simple controls create challenging gameplay.",
+      "description": "The timeless mobile classic where you guide a growing snake to eat food while avoiding walls and your own tail. Simple controls create increasingly challenging gameplay.",
       "longDescription": "Snake Game is the timeless arcade classic that defined mobile gaming. Control a growing snake as it moves around the screen, eating food to grow longer while avoiding walls and its own tail. The simple concept creates increasingly challenging gameplay as your snake grows and the available space shrinks. This version captures all the addictive gameplay of the original with smooth controls and classic graphics.",
       "category": "google-games",
       "tags": [
         "snake game",
-        "arcade game"
+        "arcade game",
+        "classic",
+        "mobile",
+        "retro",
+        "growing"
       ],
       "iframeUrl": "https://emulatoros.github.io/gfile/snake/",
       "thumbnail": "https://images.geometry-dash-lite.org/google-snake-game-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/google-snake-game-thumbnail.webp",
-      "playCount": 2400000,
+      "playCount": 35000000,
       "rating": 4.5,
+      "ratingCount": 24000000,
+      "reviewCount": 5500000,
       "controls": [
         "Arrow keys to change direction",
         "Eat food to grow longer",
-        "Avoid walls and your own tail"
+        "Avoid walls and your own tail",
+        "WASD controls also supported"
       ],
       "tips": [
         "Plan your path to avoid getting trapped",
         "Use the edges strategically",
         "Don't grow too fast in tight spaces",
-        "Think several moves ahead"
+        "Think several moves ahead",
+        "Start slow and build up your skills"
       ],
       "relatedGameIds": []
     },
@@ -1104,25 +1451,35 @@
       "title": "Wacky Flip",
       "slug": "wacky-flip",
       "description": "A challenging puzzle game requiring strategic board flipping to clear all blocks. Plan moves carefully and think ahead through increasingly complex levels.",
-      "longDescription": "Wacky Flip is a fun and challenging flip game where you need to flip the board to clear all the blocks. The game is a simple and addictive puzzle game that will keep you entertained for hours.",
+      "longDescription": "Wacky Flip is a fun and challenging flip game where you need to flip the board to clear all the blocks. The game is a simple and addictive puzzle game that will keep you entertained for hours. Use strategic thinking to plan your moves and clear increasingly complex patterns while mastering the unique flipping mechanics.",
       "category": "google-games",
       "tags": [
-        "puzzle game"
+        "puzzle game",
+        "flipping",
+        "strategy",
+        "blocks",
+        "challenging",
+        "brain teaser"
       ],
       "iframeUrl": "https://1games.io/embed/wacky-flip",
       "thumbnail": "https://images.geometry-dash-lite.org/wacky-flip-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/wacky-flip-thumbnail.webp",
-      "playCount": 1200000,
+      "playCount": 12000000,
       "rating": 4.5,
+      "ratingCount": 3200000,
+      "reviewCount": 1200000,
       "controls": [
         "Click to flip the board",
-        "Clear all the blocks to win"
+        "Clear all the blocks to win",
+        "Plan moves strategically",
+        "Use mouse for board interaction"
       ],
       "tips": [
         "Plan your moves carefully",
         "Use the edges strategically",
         "Don't grow too fast in tight spaces",
-        "Think several moves ahead"
+        "Think several moves ahead",
+        "Study the pattern before making moves"
       ],
       "relatedGameIds": []
     },
@@ -1145,8 +1502,10 @@
       "iframeUrl": "https://epicfreegames78.github.io/speed-stars/",
       "thumbnail": "https://images.geometry-dash-lite.org/speed-stars-thumbnail.webp",
       "screenshot": "https://images.geometry-dash-lite.org/speed-stars-thumbnail.webp",
-      "playCount": 485000,
+      "playCount": 4850000,
       "rating": 4.6,
+      "ratingCount": 1250000,
+      "reviewCount": 485000,
       "controls": [
         "Left/Right arrow keys or A/D to alternate steps",
         "Up/Down arrow keys to control athlete position",
@@ -1167,7 +1526,7 @@
       "id": "fortnite-unblocked",
       "title": "Fortnite Unblocked",
       "slug": "fortnite-unblocked",
-      "description": "Browser-based battle royale where 100 players fight for survival on a massive island. Build structures, gather resources, collect weapons, and stay.",
+      "description": "Browser-based battle royale where 100 players fight for survival on a massive island. Build structures, gather resources, collect weapons, and stay inside the safe zone.",
       "longDescription": "Fortnite Unblocked brings the iconic battle royale experience to your browser. Drop onto a massive island with up to 100 players and fight to be the last one standing. Collect weapons, gather resources, and build structures to gain tactical advantages. The game features the classic Fortnite building mechanics, allowing you to construct walls, ramps, and towers for defense or gaining high ground. As the storm closes in, you'll need to stay within the safe zone while eliminating opponents.",
       "category": "",
       "tags": [
@@ -1183,6 +1542,8 @@
       "screenshot": "https://images.geometry-dash-lite.org/fortnite-unblocked-thumbnail.webp",
       "playCount": 1850000,
       "rating": 4.4,
+      "ratingCount": 480000,
+      "reviewCount": 125000,
       "controls": [
         "WASD or arrow keys to move",
         "Mouse to look around and aim",
@@ -1205,7 +1566,7 @@
       "id": "slope-2",
       "title": "Slope 2",
       "slug": "slope-2",
-      "description": "The enhanced sequel featuring a ball rolling down infinite slopes at increasing speeds. Navigate narrow passages, avoid red barriers, collect diamonds,.",
+      "description": "The enhanced sequel featuring a ball rolling down infinite slopes at increasing speeds. Navigate narrow passages, avoid red barriers, collect diamonds, and survive as long as possible.",
       "longDescription": "Slope 2 is the highly anticipated sequel to the beloved endless runner that captivated millions of players. Control a ball as it rolls down an infinite slope filled with deadly obstacles and treacherous drops. The game features improved physics, enhanced graphics, and even more challenging obstacle patterns than its predecessor. As you progress, the speed increases dramatically, testing your reflexes and concentration to the limit. Navigate through narrow passages, avoid red barriers, and collect diamonds while maintaining perfect control of your ever-accelerating ball.",
       "category": "",
       "tags": [
@@ -1221,6 +1582,8 @@
       "screenshot": "https://images.geometry-dash-lite.org/slope-2-thumbnail.webp",
       "playCount": 2150000,
       "rating": 4.7,
+      "ratingCount": 650000,
+      "reviewCount": 185000,
       "controls": [
         "A/D or Left/Right arrow keys to steer the ball",
         "Mouse movement for precise control",
@@ -1241,7 +1604,7 @@
       "id": "flying-kong",
       "title": "Flying Kong",
       "slug": "flying-kong",
-      "description": "Classic arcade platformer starring a heroic flying gorilla navigating aerial challenges. Master controlled flight through diverse environments filled with.",
+      "description": "Classic arcade platformer starring a heroic flying gorilla navigating aerial challenges. Master controlled flight through diverse environments filled with enemies and obstacles.",
       "longDescription": "Flying Kong is an exciting arcade platformer that puts you in control of a heroic flying gorilla on an epic adventure. Inspired by classic arcade games, this title combines smooth flight mechanics with challenging platform elements as you soar through diverse environments filled with obstacles, enemies, and collectibles. Master the art of controlled flight while avoiding hazards, collecting power-ups, and defeating enemies across multiple themed worlds. The game features responsive controls that make flying feel natural and intuitive, while progressively challenging levels keep you engaged throughout your aerial journey.",
       "category": "",
       "tags": [
@@ -1257,6 +1620,8 @@
       "screenshot": "https://images.geometry-dash-lite.org/flying-kong-thumbnail.webp",
       "playCount": 680000,
       "rating": 4.3,
+      "ratingCount": 180000,
+      "reviewCount": 65000,
       "controls": [
         "Arrow keys or WASD to control flight direction",
         "Spacebar to boost/dash through the air",
@@ -1277,7 +1642,7 @@
       "id": "italian-brainrot-clicker",
       "title": "Italian Brainrot Clicker",
       "slug": "italian-brainrot-clicker",
-      "description": "Viral meme clicker featuring AI-generated Italian characters with absurd names producing hilarious gibberish. Click to spawn bizarre personalities like 'Bomb...",
+      "description": "Viral meme clicker featuring AI-generated Italian characters with absurd names producing hilarious gibberish. Click to spawn bizarre personalities and unlock chaotic upgrades.",
       "longDescription": "Italian Brainrot Clicker is a hilariously chaotic clicker game that became a viral sensation thanks to its AI-generated Italian characters with wonderfully absurd names like 'Tralalero Tralala' and 'Bombardino Crocodilo'. Click to spawn these bizarre characters who produce increasingly ridiculous Italian-sounding gibberish and meme-worthy sound effects. The game combines the addictive nature of clicker mechanics with internet meme culture, creating an unexpectedly entertaining experience that's equal parts amusing and bewildering. Watch as your screen fills with these comical characters while earning points to unlock even more outrageous personalities.",
       "category": "",
       "tags": [
@@ -1293,6 +1658,8 @@
       "screenshot": "https://images.geometry-dash-lite.org/italian-brainrot-clicker-thumbnail.webp",
       "playCount": 1250000,
       "rating": 4.2,
+      "ratingCount": 420000,
+      "reviewCount": 150000,
       "controls": [
         "Left click to spawn Italian characters",
         "Right click for special character spawns",
@@ -1313,7 +1680,7 @@
       "id": "stickman-clash",
       "title": "Stickman Clash",
       "slug": "stickman-clash",
-      "description": "Physics-based fighting game featuring stickman warriors battling with various weapons in dynamic combat. Master timing, positioning, and weapon mechanics .",
+      "description": "Physics-based fighting game featuring stickman warriors battling with various weapons in dynamic combat. Master timing, positioning, and weapon mechanics to defeat opponents.",
       "longDescription": "Stickman Clash is an action-packed physics-based fighting game that pits stickman warriors against each other in brutal combat scenarios. Choose from a variety of weapons including swords, clubs, spears, and ranged weapons as you engage in epic battles across different arenas. The game features realistic physics that make every hit, throw, and impact feel satisfying and dynamic. Master different fighting techniques, learn to time your attacks perfectly, and develop strategies to overcome opponents with superior gear or numbers. Whether in single combat or chaotic multiplayer battles, victory requires skill, timing, and tactical thinking.",
       "category": "",
       "tags": [
@@ -1329,6 +1696,8 @@
       "screenshot": "https://images.geometry-dash-lite.org/stickman-clash-thumbnail.webp",
       "playCount": 920000,
       "rating": 4.4,
+      "ratingCount": 240000,
+      "reviewCount": 88000,
       "controls": [
         "WASD or Arrow keys to move your stickman",
         "Mouse to aim and control weapon direction",
@@ -1350,7 +1719,7 @@
       "id": "golf-hit",
       "title": "Golf Hit",
       "slug": "golf-hit",
-      "description": "Precision mini golf with intuitive aim-and-shoot mechanics across creatively designed courses. Navigate complex layouts with ramps, barriers, and moving.",
+      "description": "Precision mini golf with intuitive aim-and-shoot mechanics across creatively designed courses. Navigate complex layouts with ramps, barriers, and moving obstacles.",
       "longDescription": "Golf Hit is an engaging mini golf game that tests your precision and strategic thinking across a variety of creatively designed courses. Use intuitive aim-and-shoot mechanics to navigate your ball through increasingly complex layouts filled with ramps, barriers, moving platforms, and tricky obstacles. Each hole presents unique challenges that require you to carefully calculate angles, power, and timing to achieve the perfect shot. The game features multiple themed environments, from classic mini golf courses to more fantastical settings, each with their own physics-based puzzles to solve.",
       "category": "",
       "tags": [
@@ -1366,6 +1735,8 @@
       "screenshot": "https://images.geometry-dash-lite.org/golf-hit-thumbnail.webp",
       "playCount": 750000,
       "rating": 4.3,
+      "ratingCount": 200000,
+      "reviewCount": 72000,
       "controls": [
         "Mouse to aim your shot direction",
         "Hold and drag to set power level",
