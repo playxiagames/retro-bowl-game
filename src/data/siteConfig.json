@@ -21,11 +21,7 @@
     "mainGame": "retro-bowl",
     "popularGames": [
       "doodle-baseball",
-      "retro-bowl-college",
-      "basketball",
-      "soccer",
-      "football",
-      "baseball"
+      "retro-bowl-college"
     ],
     "newGames": ["basketball", "soccer", "american-football"],
     "hotGames": ["retro-bowl", "doodle-baseball", "retro-bowl-college", "basketball"]
@@ -34,9 +30,9 @@
     "topItems": [
       {
         "type": "category",
-        "id": "sports-games",
-        "title": "Sports Games",
-        "url": "/category/sports-games/"
+        "id": "retro-bowl",
+        "title": "Retro Bowl",
+        "url": "/category/retro-bowl/"
       },
       {
         "type": "page",

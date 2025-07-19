@@ -37,8 +37,8 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a href="/category/js13k-games/" className="text-gray-300 hover:text-white transition-colors text-sm">
-                  JS13K Games
+                <a href="/category/retro-bowl/" className="text-gray-300 hover:text-white transition-colors text-sm">
+                Retro Bowl Games
                 </a>
               </li>
               <li>

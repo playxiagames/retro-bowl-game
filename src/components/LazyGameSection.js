@@ -13,23 +13,23 @@ const GameGridSuspense = ({ children, gridCols = "grid-cols-2 sm:grid-cols-3 md:
 
 // 懒加载的游戏区域组件
 const LazyGameSection = ({ 
-  geometryDashGames,
+  themeGames,
   popularGames,
   googleGamesPreview,
-  js13kGamesPreview,
+  geometryGamesPreview,
   moreGames,
   allGamesCount
 }) => {
   return (
     <>
-      {/* Sports Games 系列专区 - 核心产品展示 */}
+      {/* Retro Games 系列专区 - 核心产品展示 */}
       <div className="mt-8">
         <div className="flex items-center justify-between mb-4">
           <h2 className="text-2xl font-bold text-gray-900 dark:text-white text-left">
-            🏈 Complete Sports Games Collection
+            🏈 Complete Retro Bowl Games Collection
           </h2>
           <span className="text-sm text-gray-500 dark:text-gray-400">
-            {geometryDashGames.length} games
+            {themeGames.length} games
           </span>
         </div>
         <div className="bg-gradient-to-r from-blue-50 to-green-50 dark:from-blue-900/20 dark:to-green-900/20 rounded-lg p-4 mb-4">
@@ -38,7 +38,7 @@ const LazyGameSection = ({
           </p>
         </div>
         <GameGridSuspense>
-          <GameGrid games={geometryDashGames} />
+          <GameGrid games={themeGames} />
         </GameGridSuspense>
       </div>
 
@@ -81,26 +81,25 @@ const LazyGameSection = ({
             </GameGridSuspense>
           </div>
         )}
-
-        {/* JS13K Games Preview */}
-        {js13kGamesPreview.length > 0 && (
+        {/* Geometry Dash Preview */}
+        {geometryGamesPreview.length > 0 && (
           <div className="mb-8">
             <div className="flex items-center justify-between mb-4">
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white">⚡ Minimalist JS13K Games</h3>
+              <h3 className="text-xl font-semibold text-gray-900 dark:text-white">🎮 Geometry Dash Games</h3>
               <a 
-                href="/category/js13k-games/"
+                href="/category/geometry-dash/"
                 className="text-blue-600 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300 font-medium text-sm transition-colors"
               >
-                View All JS13K Games →
+                View All Geometry Dash Games →
               </a>
             </div>
             <div className="bg-purple-50 dark:bg-purple-900/20 rounded-lg p-3 mb-4">
               <p className="text-gray-700 dark:text-gray-300 text-sm">
-                💎 Incredible games built in just 13KB of code - showcasing creativity and technical mastery!
+                🕹️ Timeless arcade classics including doodle baseball - reimagined by Google for modern browsers!
               </p>
             </div>
-            <GameGridSuspense gridCols="grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6" skeletonCount={4}>
-              <GameGrid games={js13kGamesPreview} gridCols="grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6" />
+            <GameGridSuspense gridCols="grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
+              <GameGrid games={geometryGamesPreview} gridCols="grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6" />
             </GameGridSuspense>
           </div>
         )}

@@ -17,7 +17,7 @@ import {
   getSidebarRecommendedGames,
   getFeaturedGames,
   getPopularGames, 
-  getGeometryDashGames,
+  getThemeGames,
   getCategoryPreviewGames,
   getAllCategories,
   getMoreGamesForHomepage,
@@ -53,23 +53,23 @@ export default function HomePage() {
   
   // 获取各种游戏数据
   const sidebarGames = getSidebarRecommendedGames(mainGame.id, 7);
-  const geometryDashGames = getGeometryDashGames();
+  const themeGames = getThemeGames();
   const popularGames = getPopularGames();
   const allGames = getAllGames(); // 用于获取游戏总数
   
   // 获取分类预览游戏
   const categories = getAllCategories();
   const googleGamesPreview = getCategoryPreviewGames('google-games', 6);
-  const js13kGamesPreview = getCategoryPreviewGames('js13k-games', 4);
+  const geometryGamesPreview = getCategoryPreviewGames('geometry-dash', 6);
 
   // 收集已展示的游戏ID，用于排除重复
   const displayedGameIds = [
     mainGame.id,
     ...sidebarGames.map(g => g.id),
-    ...geometryDashGames.map(g => g.id),
+    ...themeGames.map(g => g.id),
     ...popularGames.map(g => g.id),
     ...googleGamesPreview.map(g => g.id),
-    ...js13kGamesPreview.map(g => g.id)
+    ...geometryGamesPreview.map(g => g.id),
   ];
 
   // 获取更多游戏，排除已展示的
@@ -111,10 +111,10 @@ export default function HomePage() {
           </div>
         }>
           <LazyGameSection
-            geometryDashGames={geometryDashGames}
+            themeGames={themeGames}
             popularGames={popularGames}
             googleGamesPreview={googleGamesPreview}
-            js13kGamesPreview={js13kGamesPreview}
+            geometryGamesPreview={geometryGamesPreview}
             moreGames={moreGames}
             allGamesCount={allGames.length}
           />

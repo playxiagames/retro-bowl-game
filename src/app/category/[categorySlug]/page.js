@@ -196,25 +196,6 @@ export default function CategoryPage({ params }) {
                   </p>
                 </div>
               )}
-              {category.id === 'js13k-games' && (
-                <div className="space-y-4 text-gray-700 dark:text-gray-300">
-                  <p>
-                    JS13K Games showcase the incredible creativity and technical skill of developers who create amazing gaming experiences 
-                    within just 13 kilobytes of code. This unique constraint forces developers to be innovative, resulting in games that are 
-                    both technically impressive and surprisingly engaging.
-                  </p>
-                  <p>
-                    These minimalist browser games prove that great gameplay doesn't require massive file sizes or complex graphics. 
-                    Each game in our collection demonstrates how clever programming and creative design can deliver memorable gaming experiences 
-                    that load instantly and run smoothly on any device.
-                  </p>
-                  <p>
-                    The JS13K Games collection offers a diverse range of genres and gameplay styles, from puzzle challenges to arcade action. 
-                    Perfect for quick gaming sessions, these lightweight games provide immediate entertainment while showcasing the artistry 
-                    of constraint-based development.
-                  </p>
-                </div>
-              )}
             </div>
           </div>
         </div>

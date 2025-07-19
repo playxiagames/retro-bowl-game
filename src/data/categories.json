@@ -1,31 +1,31 @@
 {
   "categories": [
     {
-      "id": "sports-games",
-      "name": "Sports Games",
-      "slug": "sports-games",
-      "description": "Play free online sports games - football, baseball, basketball and more classic sports gaming experiences.",
-      "longDescription": "Sports Games collection features the best free online sports games including Retro Bowl, doodle baseball, basketball, soccer, and more. Our collection spans classic arcade-style sports games with nostalgic 8-bit graphics to modern interpretations of America's favorite pastimes. Whether you're managing a football team in Retro Bowl, hitting home runs in doodle baseball, or shooting hoops in basketball games, these titles capture the excitement and strategy of real sports. Perfect for sports fans and casual gamers alike, these games offer quick pick-up-and-play action combined with deeper strategic elements. From the simple joy of swinging for the fences to the complex team management mechanics, our sports games provide authentic sporting experiences that are both accessible to newcomers and engaging for experienced players.",
+      "id": "retro-bowl",
+      "name": "Retro Bowl",
+      "slug": "retro-bowl",
+      "description": "",
+      "longDescription": "",
       "isTopLevel": true,
-      "gameCount": 15
+      "gameCount": 17
     },
     {
       "id": "google-games",
       "name": "Google Games",
       "slug": "google-games",
-      "description": "Free Google games collection - classic arcade games including Pac-Man, Snake, Doodle Baseball and more.",
-      "longDescription": "Google Games represents a curated collection of classic arcade games that have been reimagined and optimized by Google. Our selection includes iconic titles that have entertained millions of players worldwide. Featured games include the legendary Pac-Man, where you navigate mazes eating dots while avoiding colorful ghosts; the addictive Snake Game that defined early mobile gaming; Google's charming Doodle Baseball with hand-drawn graphics and intuitive gameplay; the challenging Google Minesweeper with modern design improvements; Atari Breakout for classic brick-breaking action; Basketball for arcade-style shooting fun; and the famous Dinosaur Game (Chrome Dino) that appears when your internet connection fails. These games showcase Google's commitment to preserving gaming history while making classic titles accessible to modern audiences. Each game maintains the simple, pick-up-and-play nature that made the originals so popular, while benefiting from improved graphics, smooth controls, and browser-based convenience. Perfect for quick gaming sessions, these timeless classics offer instant entertainment without downloads or installations.",
+      "description": "",
+      "longDescription": "",
       "isTopLevel": true,
       "gameCount": 7
     },
     {
-      "id": "js13k-games",
-      "name": "JS13K Games",
-      "slug": "js13k-games",
-      "description": "Play free online JS13K Games - small, minimalist browser games built with JavaScript.",
-      "longDescription": "JS13K Games is a curated collection of small, minimalist browser games built with JavaScript. Each game is designed to be played in just 13 kilobytes of code, challenging players to create innovative and engaging experiences within tight constraints. Our selection includes a variety of genres, from puzzle games to action-packed adventures, all optimized for quick, on-the-go gaming. The games are optimized for performance and accessibility, ensuring they run smoothly on all devices. Whether you're looking for a quick challenge or a relaxing gaming session, our JS13K Games collection offers a diverse range of experiences that can be enjoyed anywhere, anytime.",
+      "id": "geometry-dash",
+      "name": "Geometry Dash",
+      "slug": "geometry-dash",
+      "description": "",
+      "longDescription": "",
       "isTopLevel": true,
-      "gameCount": 10
+      "gameCount": 9
     }
   ]
 } 

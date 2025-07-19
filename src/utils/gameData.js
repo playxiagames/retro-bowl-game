@@ -215,9 +215,9 @@ export const sortGamesByPriority = (games) => {
 };
 
 // 获取 Geometry Dash 系列游戏
-export const getGeometryDashGames = () => {
-  const geometryDashGames = gamesData.games.filter(game => game.category === 'geometry-dash');
-  return sortGamesByPriority(geometryDashGames);
+export const getThemeGames = () => {
+  const themeGames = gamesData.games.filter(game => game.category === 'retro-bowl');
+  return sortGamesByPriority(themeGames);
 };
 
 // 获取侧边栏推荐游戏 - 同系列游戏 + 热门游戏的组合
